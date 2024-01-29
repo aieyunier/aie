@@ -1,0 +1,26 @@
+# en este "docker-compose" se crea el contenedor "apache" a partir de una imagen personalizada "apache:estudio1"
+version: "3.9"
+services:
+  rancher:
+    image: rancher/rancher
+    restart: always # esta opcion se usa para que el contenedor se inicie automaticamente ante posibles caidas
+    ports:
+      - "8083:443" # se mapea el puerto 8000 de la maquina local, al puero 8000 que expone la imagen
+      - "8084:80"
+     # - "9443:9443" # por este puerto se accede a la web https://localhost:9443
+    # se crea un volume para el contenedor donde el contenido de "htdocs" del contenedor, queda de forma permanente
+    # en la ubucacion "." que hace referencia a la ubicacion desde la que se ejecuta el "docker-compose"
+    volumes:
+     # - /var/run/docker.sock:/var/run/docker.sock  ## para que actualice la informacion de los datos de docker
+      - rancher_data:/var/lib/rancher
+    privileged: true
+    networks: 
+      - red_local
+
+networks:
+    red_local:
+
+volumes:
+    rancher_data:
+
+  ## acceder a la web:  https://localhost:9443
