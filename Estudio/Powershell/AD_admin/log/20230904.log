@@ -1,0 +1,11 @@
+09/04/2023 14:06:18 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+09/04/2023 14:08:55 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+09/04/2023 14:09:13 - Usuario: psadmin - Accion: Reporte de OU vacias - Mensaje: Se hizo un reporte de todas las OU vacias del Active Directory
+09/04/2023 14:11:55 - Usuario: psadmin - Accion: Reporte de OU vacias - Mensaje: Se hizo un reporte de todas las OU vacias del Active Directory
+09/04/2023 14:13:53 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de todos los usuarios del Active Directory
+09/04/2023 14:14:20 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con claves proximo a expirar en el Active Directory
+09/04/2023 14:15:21 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con clave que no expiran en el Active Directory
+09/04/2023 14:15:59 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory
+09/04/2023 14:16:34 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios deshabilitados en el Active Directory
+09/04/2023 14:18:01 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+09/04/2023 14:20:03 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  

@@ -1,0 +1,36 @@
+# mediante este despliegue "stateFullSet" se garantiza que cada pod tenga una identidad unica y estable, incluso si escalan o se vuelven a crear
+# ademas, se crea un PVC (Persisent Volume Claim) automaticamente para que sean utilizados por los pods
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: mysql-statefulset
+spec:
+  serviceName: mysql
+  replicas: 2
+  selector:
+    matchLabels:
+      app: mysql
+  template:
+    metadata:
+      labels:
+        app: mysql
+    spec:
+      containers:
+      - name: mysql
+        image: mysql:latest
+        env:
+        - name: MYSQL_ROOT_PASSWORD
+          value: "tu-contraseña"
+        ports:
+        - containerPort: 3306
+        volumeMounts:
+        - name: mysql-persistent-storage
+          mountPath: /var/lib/mysql
+  volumeClaimTemplates: 
+  - metadata:
+      name: mysql-persistent-storage
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      resources:
+        requests:
+          storage: 2Gi  # Ajusta el tamaño según tus necesidades

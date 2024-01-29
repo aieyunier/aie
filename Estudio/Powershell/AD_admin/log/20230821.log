@@ -1,0 +1,31 @@
+08/21/2023 09:17:44 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+08/21/2023 09:18:04 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de todos los usuarios del Active Directory
+08/21/2023 09:18:26 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con claves proximo a expirar en el Active Directory
+08/21/2023 09:18:47 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con clave que no expiran en el Active Directory
+08/21/2023 09:19:04 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory
+08/21/2023 09:19:21 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios deshabilitados en el Active Directory
+08/21/2023 09:20:00 - Usuario: psadmin - Accion: cambio de clave - Mensaje: Se cambio la clave del usuario: test
+08/21/2023 09:20:24 - Usuario: psadmin - Accion: desbloqueo de cuenta - Mensaje: Se desbloqueo la cuenta de usuario: yvaldes
+08/21/2023 09:20:51 - Usuario: psadmin - Accion: habilitacion de cuenta - Mensaje: Se habilito la cuenta de usuario: test
+08/21/2023 09:21:07 - Usuario: psadmin - Accion: deshabilitacion de cuenta - Mensaje: Se deshabilito la cuenta de usuario: test
+08/21/2023 09:22:16 - Usuario: psadmin - Accion: Creacion de cuenta - Mensaje: Se creo la cuenta de usuario: test45
+08/21/2023 09:22:38 - Usuario: psadmin - Accion: eliminacion de cuenta - Mensaje: Se elimino la cuenta de usuario: test45
+08/21/2023 09:23:00 - Usuario: psadmin - Accion: revision de cuenta - Mensaje: Se reviso el estdo de la cuenta de usuario: test
+08/21/2023 09:23:38 - Usuario: psadmin - Accion: revision de cuenta - Mensaje: Se reviso el estdo de la cuenta de usuario: test
+08/21/2023 09:24:19 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario test test
+08/21/2023 09:30:00 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario test test
+08/21/2023 09:32:32 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario test test
+08/21/2023 09:33:49 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes
+08/21/2023 09:44:35 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+08/21/2023 09:44:57 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 09:54:31 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 10:02:26 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 10:04:38 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 10:08:36 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 10:20:54 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/21/2023 10:31:31 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes
+08/21/2023 10:31:53 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con clave que no expiran en el Active Directory
+08/21/2023 10:32:19 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes
+08/21/2023 10:32:31 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes
+08/21/2023 10:34:09 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes
+08/21/2023 10:41:08 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario yvaldes yvaldes

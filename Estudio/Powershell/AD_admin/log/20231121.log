@@ -1,0 +1,25 @@
+11/21/2023 15:58:01 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario psadmin. Verifique usuario y clave.
+11/21/2023 15:58:08 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario psadmin. Verifique usuario y clave.
+11/21/2023 16:00:24 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+11/21/2023 16:01:10 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+11/21/2023 16:21:37 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+11/21/2023 16:22:51 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario jlituarte jlituarte
+11/21/2023 16:35:32 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario jlituarte jlituarte
+11/21/2023 16:36:16 - Usuario: jlituarte - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario jlituarte. Verifique usuario y clave.
+11/21/2023 16:36:25 - Usuario: jlituarte - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario jlituarte. Verifique usuario y clave.
+11/21/2023 16:36:43 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+11/21/2023 16:37:46 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+11/21/2023 16:45:58 - Usuario: usuario2_aie - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario usuario2_aie. Verifique usuario y clave.
+11/21/2023 16:46:04 - Usuario: usuario2_aie - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario usuario2_aie. Verifique usuario y clave.
+11/21/2023 16:46:09 - Usuario: usuario2_aie - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario usuario2_aie. Verifique usuario y clave.
+11/21/2023 16:46:13 - Usuario: usuario2_aie - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario usuario2_aie. Verifique usuario y clave.
+11/21/2023 16:46:18 - Usuario: usuario2_aie - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario usuario2_aie. Verifique usuario y clave.
+11/21/2023 17:17:31 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+11/21/2023 17:18:20 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+11/21/2023 17:21:45 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+11/21/2023 17:23:48 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario jlituarte jlituarte
+11/21/2023 17:55:53 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario ivelasco ivelasco
+11/21/2023 17:58:38 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario ivelasco ivelasco
+11/21/2023 18:01:21 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario psadmin psadmin
+11/21/2023 18:05:15 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory
+11/21/2023 18:22:08 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory

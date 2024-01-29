@@ -1,0 +1,64 @@
+
+Ruta_OU                                                                                                                  Nombre_OU
+-------                                                                                                                  ---------
+OU=AIE,OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                                    AIE
+OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                                                                  AIE
+OU=AIE,OU=Usuarios_AIE,DC=redaie,DC=local                                                                                AIE
+OU=AMPOS,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                               AMPOS
+OU=ANAIE,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                               ANAIE
+OU=Bastionado 2023,DC=redaie,DC=local                                                                                    Bastionado …
+OU=Bravent,OU=Usuarios_AIE,DC=redaie,DC=local                                                                            Bravent
+OU=CITRIXCLOUD,OU=MCS AIE,OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                                        CITRIXCLOUD
+OU=CITRIXCLOUDPRU,OU=CITRIXCLOUD,OU=MCS AIE,OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                      CITRIXCLOUD…
+OU=Computer Thin Client,DC=redaie,DC=local                                                                               Computer Th…
+OU=Computers TEST,DC=redaie,DC=local                                                                                     Computers T…
+OU=Computers Updates,OU=Computers W7,DC=redaie,DC=local                                                                  Computers U…
+OU=Computers W7,DC=redaie,DC=local                                                                                       Computers W7
+OU=Consejeros,OU=Externos,OU=Usuarios_AIE,DC=redaie,DC=local                                                             Consejeros
+OU=COSTA RICA,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                          COSTA RICA
+OU=Desktop OS,OU=XenDesktop7,DC=redaie,DC=local                                                                          Desktop OS
+OU=Entidades extranjeras borrar,OU=Server OS,OU=XenDesktop76,DC=redaie,DC=local                                          Entidades e…
+OU=Entidades Extranjeras,OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                  Entidades E…
+OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                                                 Entidades E…
+OU=Externos,OU=Usuarios_AIE,DC=redaie,DC=local                                                                           Externos
+OU=FaxMaker,OU=Grupos AIE,DC=redaie,DC=local                                                                             FaxMaker
+OU=Formacion,OU=MCS AIE,OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                                          Formacion
+OU=Formación,OU=XenDesktop76,DC=redaie,DC=local                                                                          Formación
+OU=GDA,OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                              GDA
+OU=Grupos AIE,DC=redaie,DC=local                                                                                         Grupos AIE
+OU=Listas Presidente,OU=Usuarios_AIE,DC=redaie,DC=local                                                                  Listas Pres…
+OU=MCS AIE,OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                                                       MCS AIE
+OU=MCS BRAVENT,OU=AIE,OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                     MCS BRAVENT
+OU=MCS Unidad C,OU=Server OS,OU=XenDesktop76,DC=redaie,DC=local                                                          MCS Unidad C
+OU=MCS,OU=AIE,OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                             MCS
+OU=PANAMA,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                              PANAMA
+OU=PARAGUAY,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                            PARAGUAY
+OU=pc,OU=Pruebas,DC=redaie,DC=local                                                                                      pc
+OU=PEG,OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                                 PEG
+OU=Persistentes,OU=AIE,OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                    Persistentes
+OU=Pruebas,DC=redaie,DC=local                                                                                            Pruebas
+OU=SARIME,OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                           SARIME
+OU=Server OS,OU=XenDesktop7,DC=redaie,DC=local                                                                           Server OS
+OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local                                                                         Server OS
+OU=Server OS,OU=XenDesktop76,DC=redaie,DC=local                                                                          Server OS
+OU=Servicios,DC=redaie,DC=local                                                                                          Servicios
+OU=SGP,OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                              SGP
+OU=SODAIE,OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                           SODAIE
+OU=SODINPRO,OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                         SODINPRO
+OU=Test OU,DC=redaie,DC=local                                                                                            Test OU
+OU=Thin Client,DC=redaie,DC=local                                                                                        Thin Client
+OU=Usuarios a eliminar en un futuro por cambio de email,OU=Usuarios_AIE,DC=redaie,DC=local                               Usuarios a …
+OU=Usuarios Barcelona,OU=Usuarios_AIE,DC=redaie,DC=local                                                                 Usuarios Ba…
+OU=Usuarios Business Intelligence,OU=Usuarios_AIE,DC=redaie,DC=local                                                     Usuarios Bu…
+OU=Usuarios Entidades Externas,OU=Usuarios_AIE,DC=redaie,DC=local                                                        Usuarios En…
+OU=Usuarios Sevilla,OU=AIE,OU=Usuarios_AIE,DC=redaie,DC=local                                                            Usuarios Se…
+OU=Usuarios ya no en AIE con buzon activo,OU=Usuarios_AIE,DC=redaie,DC=local                                             Usuarios ya…
+OU=Usuarios_AIE,DC=redaie,DC=local                                                                                       Usuarios_AIE
+OU=Usuarios,OU=Entidades Extranjeras,OU=Servicios,DC=redaie,DC=local                                                     Usuarios
+OU=Win7 y Win8,OU=Desktop OS,OU=XenDesktop7,DC=redaie,DC=local                                                           Win7 y Win8
+OU=Windows 10 Citrix,OU=CITRIXCLOUDPRU,OU=CITRIXCLOUD,OU=MCS AIE,OU=AIE,OU=Server OS,OU=XenDesktop715,DC=redaie,DC=local Windows 10 …
+OU=WinXP,OU=Desktop OS,OU=XenDesktop7,DC=redaie,DC=local                                                                 WinXP
+OU=XenDesktop7,DC=redaie,DC=local                                                                                        XenDesktop7
+OU=XenDesktop715,DC=redaie,DC=local                                                                                      XenDesktop7…
+OU=XenDesktop76,DC=redaie,DC=local                                                                                       XenDesktop76
+

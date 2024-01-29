@@ -1,0 +1,96 @@
+
+Name                                                          Enabled LastLogonDate       Mail
+----                                                          ------- -------------       ----
+Agua                                                            False                     Agua@aie.es
+Alejandra Soto                                                  False 27/12/2017 16:49:51 alejandra.soto@aie.es
+Alvaro Bermejo                                                  False 16/03/2022 14:12:59 alvaro.bermejo@aie.es
+Ana Dominguez                                                   False 16/03/2022 16:30:27 ana.dominguez@aie.es
+Angel Escobar                                                   False 09/09/2019 11:10:18 angel.escobar@aie.es
+Antonio Guindal Galindo                                         False                     antonio.guindal@aie.es
+Antonio Martins Junior                                          False 06/09/2019 13:25:53 antonio.martins@aie.es
+Aula Formación                                                  False                     aula_formacion@aie.es
+Aurora Beltran                                                  False 13/07/2023 12:21:20 aurora-beltran@hotmail.com
+Auxiliar Presidencia                                            False 27/09/2018 13:57:27 auxiliar.presidencia@aie.es
+Biblioteca                                                      False                     Biblioteca@aie.es
+Carlos Lopez                                                    False 24/03/2014 2:51:07  carlos.lopez@aie.es
+Carmen Cespon                                                   False 29/03/2021 9:16:06  
+Carolina Perez                                                  False 12/04/2023 8:43:16  carolina.perez@aie.es
+Catering                                                        False                     Catering@aie.es
+consultorsap                                                    False 09/02/2009 9:43:41  
+consultorsapaie                                                 False 30/03/2009 17:06:29 
+Cursos Aie Santiago                                             False                     cursosaie.santiago@aie.es
+DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852}   False                     DiscoverySearchMailbox{D919BA05-46A6-415f-…
+Enrique García Asensio                                          False 22/03/2022 5:53:02  GASENSIO@aie.es
+Enrique Perdomo                                                 False 13/07/2023 12:04:53 
+Exchange Online-ApplicationAccount                              False                     
+FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042             False                     FederatedEmail.4c1f4d8b-8179-4148-93bf-00a…
+Fernando Sancho                                                 False 13/07/2023 12:00:57 fernandosancho@mac.com
+Formacion 1                                                     False 06/05/2021 12:01:24 formacion1@aie.es
+Formacion 10                                                    False 04/04/2018 10:23:14 
+Formacion 2                                                     False 05/05/2021 16:11:52 
+Formacion 3                                                     False 06/05/2021 8:40:59  
+Formacion 4                                                     False 06/05/2021 9:12:57  
+Formacion 5                                                     False 03/05/2021 14:32:54 
+Formacion 6                                                     False 19/11/2021 21:25:38 
+Formacion 7                                                     False 03/10/2019 11:54:26 
+Formacion 8                                                     False 05/05/2021 17:01:26 
+Formacion 9                                                     False 17/10/2019 11:39:28 
+Gerardo Rodriguez                                               False 14/01/2014 8:45:00  gerardo.rodriguez@aie.es
+Guest                                                           False                     
+Instaladoradminaie                                              False                     
+invitadoaie                                                     False 18/10/2010 19:41:25 
+Isabel Rubio                                                    False 18/12/2017 13:55:30 isabel.rubio@aie.es
+Israel Alcazar                                                  False 21/02/2022 12:42:08 israel.alcazar@aie.es
+Javier Plaza                                                    False 13/04/2021 16:35:48 javier.plaza@aie.es
+Jesus Maria Roldan                                              False 13/06/2022 17:12:38 
+Jesus Perez                                                     False 02/04/2022 23:36:53 jesus.perez@aie.es
+Joaquin Muñoz                                                   False                     joaquin.munoz@twobirds.com
+Jose  Felix Lopez                                               False 08/04/2008 12:55:08 
+Jose Luis Carrascosa                                            False 17/06/2022 11:19:20 joseluis.carrascosa@aie.es
+José Luis Nieto                                                 False 12/07/2023 11:20:25 joseluisnieto_1@hotmail.com
+José Ruzafa Silvestre                                           False 26/08/2020 0:48:54  jose.ruzafa@aie.es
+Juan Manuel Smerdou Franke                                      False 01/04/2019 1:55:56  juan.smerdou@aie.es
+Julio Hernández                                                 False 10/06/2019 11:00:30 
+krbtgt                                                          False                     
+Maria Eugenia Salcedo                                           False 05/04/2021 12:17:49 mariaeugenia.salcedo@aie.es
+Maria Jose Urbina Gomez                                         False 09/01/2013 1:17:45  mariajose.urbina@aie.es
+Mariano Pascual                                                 False 28/07/2016 18:18:13 mariano.pascual@aie.es
+MBS_ReunionesTorrelara                                          False                     MBS_ReunionesTorrelara@aie.es
+Migration.8f3e7716-2011-43e4-96b1-aba62d229136                  False                     Migration.8f3e7716-2011-43e4-96b1-aba62d22…
+Miguel Pérez Solis                                              False 25/05/2017 12:22:21 mps@aie.es
+Montserrat pratdesaba user                                      False 13/07/2023 12:20:54 
+Natalia Gerrero Espinosa                                        False 06/07/2018 10:33:41 natalia.guerrero@aie.es
+Noelia Malarino                                                 False 23/05/2022 9:19:44  noelia.malarino@aie.es
+Pablo André Petroche Rivas                                      False 08/06/2022 9:03:30  pablo.petroche@aie.es
+Palmira Campillo                                                False 04/03/2010 12:47:09 palmira.campillo@aie.es
+Pedro Ruy Blas                                                  False 13/07/2023 12:24:43 pedro@predoryblas.com
+Pedro Valiente                                                  False 30/05/2019 9:00:27  pedro.valiente@aie.es
+Portatil 1 Eventos                                              False                     Portatil1@aie.es
+Portatil 2 Eventos                                              False                     Portatil2@aie.es
+procesos                                                        False 05/06/2012 10:37:47 
+Proyector                                                       False                     Proyector@aie.es
+prueba pass prueba pass                                         False                     
+Ramon Martinez                                                  False 28/09/2020 3:30:01  ramon.martinez@aie.es
+Sala 1 Planta Baja                                              False                     Sala_1pb@aie.es
+Sala 2 Planta Baja                                              False                     sala_2pb@aie.es
+Sala Birchman                                                   False                     Sala_Birchman@aie.es
+Sala Direccion                                                  False                     Sala_direccion@aie.es
+Sala Disco                                                      False                     Sala_disco@aie.es
+Sala Opera                                                      False                     Sala_Opera@aie.es
+Sala Presidencia                                                False                     Sala_Presidencia@aie.es
+SUPPORT_388945a0                                                False                     
+SystemMailbox{1f05a927-d9d3-40a4-9fa0-83e6ca8f9d09}             False                     SystemMailbox{1f05a927-d9d3-40a4-9fa0-83e6…
+SystemMailbox{1FAE2E6A-3ACD-4D35-A906-5E5E44C45015}             False                     
+SystemMailbox{671A82CB-9FB2-4371-A2D1-CD97C021D7F0}             False                     
+SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}             False                     SystemMailbox{bb558c35-97f1-4cb9-8ff7-d537…
+SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}             False                     SystemMailbox{e0dc1c29-89c3-4034-b678-e6c2…
+Tecnicos                                                        False 25/01/2022 9:34:19  
+Teresa Amor                                                     False 05/08/2022 13:40:41 teresa.amor@aie.es
+Terraza Aie                                                     False                     Terraza_Aie@aie.es
+Univeristario 1                                                 False 30/01/2023 10:48:07 
+Universitario 2                                                 False 30/01/2023 10:52:22 
+Usuario Documentacion 1                                         False 29/06/2017 9:21:17  usuario.documentacion1@aie.es
+Usuario Fac 3                                                   False 04/04/2018 15:10:13 usuario.fac3@aie.es
+usuario3                                                        False 05/07/2022 12:26:36 usuario3@aie.es
+VMWAREADMIN                                                     False 04/10/2006 11:39:23 
+

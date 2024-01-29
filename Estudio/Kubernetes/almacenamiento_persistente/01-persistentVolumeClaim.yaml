@@ -1,0 +1,12 @@
+# Este recurso provee de un espacio de almacenamiento que puede ser usuado como almacenamiento persistente por los los PODS
+
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mysql-pvc   #nombre del recurso
+spec:
+  accessModes:
+    - ReadWriteOnce # de escritura/lectura
+  resources:
+    requests:
+      storage: 10Gi  # Ajusta el tamaño según tus necesidades

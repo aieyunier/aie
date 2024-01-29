@@ -1,0 +1,15 @@
+## Este recurso define un grupo de IP llamado "first-pool" que pueden ser utilizadas en el namespace "metallb-system"
+## Dicho contexto es el que se crea cuando se despliega el balanceador de carga "metallb" desde las aplicaciones "Helm" del repositorio
+## Al final, en comentarios, se muestran otras vías de definir subredes o añadirlas al rango
+apiVersion: metallb.io/v1beta1
+kind: IPAddressPool
+metadata:
+  name: first-pool
+  namespace: metallb-system
+spec:
+  addresses:
+  - 192.168.1.248-192.168.1.249
+  ## - 192.168.1.0/24
+
+ ## esta configuracion se corresponde con la definida para "layer 2" en la documentacion de "metallb"
+  ## detalles en esta web: https://metallb.universe.tf/configuration/

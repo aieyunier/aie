@@ -1,0 +1,428 @@
+
+Name                                                          LastLogonDate       PasswordLastSet     Mail
+----                                                          -------------       ---------------     ----
+Sala 1 Planta Baja                                                                17/07/2015 10:15:07 Sala_1pb@aie.es
+Sala Birchman                                                                     17/07/2015 13:32:13 Sala_Birchman@aie.es
+Anuario Audiencias                                                                29/04/2022 12:32:55 
+Incidencias Declaracion Web                                                       10/04/2013 14:02:04 incidencias_declaracion_web@ai…
+Aula Formación                                                                    17/07/2015 13:36:04 aula_formacion@aie.es
+reclamaciones                                                                     25/02/2013 16:18:49 
+Biblioteca                                                                        17/07/2015 13:38:09 Biblioteca@aie.es
+Seminariojuridico                                                                 21/03/2022 12:14:43 seminariojuridico@aie.es
+notificacionesbdr                                                                 10/09/2012 14:38:12 bdr@aie.es
+Desarrollo AIE                                                                    10/09/2012 13:41:30 aie.desarrollo@aie.es
+Terraza Aie                                                                       17/07/2015 13:43:27 Terraza_Aie@aie.es
+Agua                                                                              17/07/2015 14:10:44 Agua@aie.es
+anonymous                                                                         03/07/2006 17:19:04 
+Portatil 1 Eventos                                                                30/12/2015 14:17:48 Portatil1@aie.es
+Portatil 2 Eventos                                                                30/12/2015 14:18:27 Portatil2@aie.es
+Proyector                                                                         30/12/2015 14:19:19 Proyector@aie.es
+Catering                                                                          30/12/2015 14:20:08 Catering@aie.es
+Sonido AIE                                                                                            sonido@aie.es
+Mauri Simanca Marchetti                                                           12/01/2023 13:27:46 
+SophosSAUPROMETEOaaa                                                              29/11/2017 16:55:10 
+AIE Contactos Presidencia                                                         10/11/2022 12:24:44 
+AIE Contactos                                                                     07/11/2022 15:57:12 
+Aie En Ruta                                                                       27/10/2022 14:23:21 
+Prueba buzon compartido 1                                                         11/10/2022 12:35:03 
+Antoni Mas                                                                        12/04/2022 15:14:25 antoni.mas@aie.es
+información                                                                       03/07/2006 17:19:04 informacion@aie.es
+Acuse Altas                                                                       21/06/2021 12:46:30 acuse_altas@aie.es
+Socios AIE Sevilla                                                                04/03/2022 10:39:42 sociossevilla@aie.es
+gstionficherossgs                                                                 14/06/2010 13:19:48 
+HealthMailbox1fb01007125b47c28dfa053ee0c24161                                     14/07/2015 15:52:30 HealthMailbox1fb01007125b47c28…
+cohesity                                                                          28/06/2022 1:05:07  cohesity@aie.es
+atsociobcn                                                                        31/01/2011 13:43:55 socios.catalunya@aie.es
+Informacion Cines                                                                 03/07/2006 17:19:04 infocines@aie.es
+Sala Presidencia                                                                  17/07/2015 13:24:31 Sala_Presidencia@aie.es
+Antonio Guindal Galindo                                                           16/03/2022 17:09:37 antonio.guindal@aie.es
+Sala Direccion                                                                    17/07/2015 13:21:41 Sala_direccion@aie.es
+HealthMailbox79473da7f23e483cbccda7a4172d467b                                     14/07/2015 15:53:02 HealthMailbox79473da7f23e483cb…
+Exchange Online-ApplicationAccount                                                                    
+SystemMailbox{1f05a927-d9d3-40a4-9fa0-83e6ca8f9d09}                                                   SystemMailbox{1f05a927-d9d3-40…
+SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}                                                   SystemMailbox{bb558c35-97f1-4c…
+SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}                                                   SystemMailbox{e0dc1c29-89c3-40…
+DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852}                                         DiscoverySearchMailbox{D919BA0…
+HealthMailbox640e12d1b7f9481193280698a5aec6b7                                     14/07/2015 17:00:32 HealthMailbox640e12d1b7f948119…
+Migration.8f3e7716-2011-43e4-96b1-aba62d229136                                                        Migration.8f3e7716-2011-43e4-9…
+HealthMailboxdf1681645585487e97f9f6797ece64b8                                     14/07/2015 15:52:52 HealthMailboxdf1681645585487e9…
+HealthMailbox0e952c3277fc43b5890928cdce29fbbf                                     14/07/2015 15:51:36 HealthMailbox0e952c3277fc43b58…
+HealthMailbox7164319f76ed463988234eac839692f1                                     14/07/2015 15:51:47 HealthMailbox7164319f76ed46398…
+HealthMailboxf78ecb8c47bc4e7086eed53fb8585ecb                                     14/07/2015 15:51:58 HealthMailboxf78ecb8c47bc4e708…
+HealthMailboxee335754309c4c46ab0d2b338a9bad07                                     14/07/2015 15:52:08 HealthMailboxee335754309c4c46a…
+HealthMailbox89c2ce2f4d314441bd47e8fa1b5d909d                                     14/07/2015 15:52:19 HealthMailbox89c2ce2f4d314441b…
+FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042                                                   FederatedEmail.4c1f4d8b-8179-4…
+Diego Silguero Medina                                                             12/01/2023 17:42:46 
+sharepoint2                                                                       23/12/2014 10:01:27 
+bravent                                                                           01/12/2020 17:35:53 
+Sala Disco                                                                        17/07/2015 13:18:52 Sala_disco@aie.es
+Sala 2 Planta Baja                                                                16/07/2015 10:34:28 sala_2pb@aie.es
+Cursos Aie Santiago                                                               03/10/2019 11:21:04 cursosaie.santiago@aie.es
+Sala Opera                                                                        16/07/2015 10:03:21 Sala_Opera@aie.es
+SqlAgent                                                                          12/03/2014 15:40:05 
+HealthMailbox1555acc4e2a64dec8362b18433118f6f                                     14/07/2015 17:01:38 HealthMailbox1555acc4e2a64dec8…
+sharepoint1                                                                       23/12/2014 10:00:54 
+HealthMailbox078525cf3f154ec9977be2506eadbc41                                     14/07/2015 17:01:27 HealthMailbox078525cf3f154ec99…
+SqlAdmin                                                                          25/03/2014 8:38:07  
+HealthMailboxb69022412c5d4b7a8712429569f5e565                                     14/07/2015 17:01:16 HealthMailboxb69022412c5d4b7a8…
+HealthMailboxcb25b351313347a2b397cbb742b8c0cd                                     14/07/2015 17:01:05 HealthMailboxcb25b351313347a2b…
+HealthMailbox3dacfb979e55426e8743839e85a0dd97                                     14/07/2015 17:00:54 HealthMailbox3dacfb979e55426e8…
+HealthMailboxe511af06b63c4ad5b4181c92face5389                                     14/07/2015 17:00:43 HealthMailboxe511af06b63c4ad5b…
+Laura Simo                                                                        25/09/2014 12:02:52 
+SPCrawlAcc                                                                        24/03/2014 15:39:06 
+Soraya Mohamed Bello                                                              12/01/2023 17:48:47 
+HealthMailboxd3b8cf72ac904f4580b66b4658f41fcf                                     14/07/2015 15:52:41 HealthMailboxd3b8cf72ac904f458…
+MBS_ReunionesTorrelara                                                            27/06/2019 18:19:24 MBS_ReunionesTorrelara@aie.es
+mediapps                                                                          03/07/2006 17:19:04 mediapps@aie.es
+enruta                                                                            03/07/2006 17:19:04 enruta@aie.es
+BECAS                                                                             03/07/2006 17:19:04 BECAS@aie.es
+Auditorio                                                                         26/01/2023 16:51:58 
+ARTISTAS                                                                          03/07/2006 17:19:04 ARTISTAS@aie.es
+encuestas2                                                                        14/01/2020 12:10:19 
+Joaquin Muñoz                                                                     30/06/2023 14:08:23 joaquin.munoz@twobirds.com
+Area Social                                                                       02/11/2022 11:45:47 areasocial@aie.es
+nfswinlnx                                                                         04/12/2008 10:47:43 
+registropro                                                                       14/05/2020 2:31:01  
+Instaladoradminaie                                                                03/07/2006 17:19:04 
+WORKFLOW                                                                          18/04/2008 14:05:37 WORKFLOW@aie.es
+SystemMailbox{671A82CB-9FB2-4371-A2D1-CD97C021D7F0}                               03/07/2006 17:19:04 
+facturasit                                                                        30/03/2021 13:05:44 facturasit@aie.es
+IWAM_DC-3                                                                         03/07/2006 17:19:04 
+SystemMailbox{1FAE2E6A-3ACD-4D35-A906-5E5E44C45015}                               03/07/2006 17:19:04 
+INTERNAC                                                                          03/07/2006 17:19:04 
+SophosSAUEUROPAaaa                                                                29/11/2017 17:15:39 
+Guest                                                                                                 
+SophosSAUCALIPSOaaa                                                               16/01/2018 11:31:16 
+prueba pass prueba pass                                                                               
+krbtgt                                                                            28/10/2013 11:41:07 
+Facturas AIE                                                                      23/03/2023 16:03:23 
+IWAM_MAILER                                                                       03/07/2006 17:19:04 
+SophosSAUPANDORAaaa                                                               16/01/2018 12:37:42 
+paypal                                                                            15/10/2020 11:41:36 Paypal@aie.es
+Actividades FONACAIE                                                              23/03/2023 16:11:25 
+SUPPORT_388945a0                                                                  31/05/2006 5:03:12  
+exchange                                                                          03/07/2006 17:19:04 
+Carpetas Públicas 2021                                                            15/04/2021 11:18:55 
+NUEVA LEY                                                                         03/07/2006 17:19:04 nuevaley@aie.es
+VMWAREADMIN                                                   04/10/2006 11:39:23 04/10/2006 11:38:13 
+Jose  Felix Lopez                                             08/04/2008 12:55:08 08/04/2008 12:54:50 
+consultorsap                                                  09/02/2009 9:43:41  03/10/2019 11:21:07 
+consultorsapaie                                               30/03/2009 17:06:29 03/10/2019 11:21:07 
+myspaceaie                                                    30/03/2009 17:57:51 30/03/2009 17:48:13 myspace@aie.es
+Palmira Campillo                                              04/03/2010 12:47:09 01/03/2010 18:19:51 palmira.campillo@aie.es
+extranetsgs                                                   13/10/2010 11:13:19 28/09/2010 14:00:23 extranetsgs@aie.es
+invitadoaie                                                   18/10/2010 19:41:25 01/07/2010 10:54:17 
+NPORTAL                                                       03/11/2010 9:31:10  03/07/2006 17:19:04 
+video                                                         12/09/2011 13:53:27 30/08/2011 10:25:57 video@aie.es
+procesos                                                      05/06/2012 10:37:47 02/02/2013 9:04:58  
+Maria Jose Urbina Gomez                                       09/01/2013 1:17:45  20/01/2014 9:04:14  mariajose.urbina@aie.es
+usureparto                                                    27/02/2013 12:50:05 18/01/2013 17:19:10 
+proadm                                                        28/06/2013 1:08:45  04/12/2008 12:07:54 
+Blog Juridico                                                 12/07/2013 13:54:15 11/05/2012 15:51:00 
+userescan                                                     17/12/2013 13:22:09 05/03/2012 16:12:30 
+Gerardo Rodriguez                                             14/01/2014 8:45:00  17/01/2014 19:09:05 gerardo.rodriguez@aie.es
+Carlos Lopez                                                  24/03/2014 2:51:07  14/04/2014 10:44:58 carlos.lopez@aie.es
+SqlEngine                                                     29/01/2015 18:13:03 12/03/2014 14:28:20 
+HealthMailbox8f6dd52ed1324af2bcd3ef0e4bf0ce61                 14/07/2015 15:53:19 14/07/2015 15:50:57 HealthMailbox8f6dd52ed1324af2b…
+MSMEODUser                                                    29/07/2015 16:23:37 29/07/2015 15:37:47 MSMEODUser@aie.es
+adminexch                                                     01/08/2015 17:38:01 14/07/2015 12:55:30 adminexch@aie.es
+2013admin                                                     03/08/2015 9:36:07  15/07/2015 11:22:04 2013admin@aie.es
+AIE Informa                                                   21/08/2015 11:09:44 27/04/2020 12:52:52 aieinforma@aie.es
+Aie Convoca                                                   21/08/2015 11:10:41 21/08/2015 10:55:28 aieconvoca@aie.es
+Admin Citrix                                                  02/12/2015 10:03:36 29/12/2014 22:04:09 
+AIE_COMUNICA                                                  30/03/2016 11:57:15 21/08/2015 10:54:18 AIECOMUNICA@aie.es
+Mariano Pascual                                               28/07/2016 18:18:13 20/12/2017 12:28:26 mariano.pascual@aie.es
+Asistencial                                                   14/04/2017 9:32:36  03/10/2019 11:21:05 asistencial@aie.es
+Miguel Pérez Solis                                            25/05/2017 12:22:21 25/05/2017 13:19:33 mps@aie.es
+Formularios                                                   09/06/2017 10:45:30 03/10/2019 11:21:04 formularios@aie.es
+Usuario Documentacion 1                                       29/06/2017 9:21:17  02/06/2017 9:07:22  usuario.documentacion1@aie.es
+Orientacion  Social                                           28/09/2017 8:50:28  27/10/2015 11:31:33 orientacionsocial@aie.es
+sophosad                                                      18/12/2017 12:56:19 18/12/2017 12:51:39 
+Isabel Rubio                                                  18/12/2017 13:55:30 03/07/2017 9:39:43  isabel.rubio@aie.es
+Alejandra Soto                                                27/12/2017 16:49:51 28/12/2017 11:04:13 alejandra.soto@aie.es
+User Wifi                                                     29/01/2018 16:36:13 25/09/2012 12:53:42 
+Formacion 10                                                  04/04/2018 10:23:14 03/10/2019 11:21:06 
+Usuario Fac 3                                                 04/04/2018 15:10:13 19/03/2018 9:23:46  usuario.fac3@aie.es
+commvault                                                     13/04/2018 10:48:04 13/04/2018 10:24:04 
+testxd7                                                       25/06/2018 13:42:06 18/08/2023 12:04:38 testxd7@aie.es
+Natalia Gerrero Espinosa                                      06/07/2018 10:33:41 12/07/2018 10:26:01 natalia.guerrero@aie.es
+aiemac2                                                       20/07/2018 12:12:59 28/03/2016 13:41:23 
+Luz Casal                                                     28/07/2018 2:32:08  17/01/2011 13:48:23 lcasal@aie.es
+Director General                                              19/09/2018 9:38:04  31/08/2015 12:30:13 directorgeneral@aie.es
+Auxiliar Presidencia                                          27/09/2018 13:57:27                     auxiliar.presidencia@aie.es
+Dorin Gheorghiu                                               17/12/2018 20:16:03 25/01/2018 16:11:30 DGHEORGHIU@aie.es
+Soporte QI                                                    10/01/2019 13:50:35 10/01/2019 13:48:58 soporte_qi@aie.es
+International AIE                                             19/02/2019 17:08:17 19/02/2019 17:08:43 International@aie.es
+Juan Manuel Smerdou Franke                                    01/04/2019 1:55:56  07/03/2018 10:42:26 juan.smerdou@aie.es
+estudiovideo                                                  22/04/2019 11:35:15 03/10/2019 11:21:05 estudiovideo@aie.es
+Pedro Valiente                                                30/05/2019 9:00:27  05/04/2019 14:19:06 pedro.valiente@aie.es
+Cursos Aie                                                    07/06/2019 14:14:30 07/06/2019 14:13:17 cursosaie@aie.es
+Julio Hernández                                               10/06/2019 11:00:30 30/05/2019 13:49:15 
+AAD_cb4afed8c157                                              11/06/2019 10:10:43 11/06/2019 10:23:21 
+DPO                                                           18/07/2019 14:16:16 18/07/2019 10:06:04 DPO@aie.es
+AIE Calidad Servicios                                         30/07/2019 8:51:09  30/07/2019 8:51:06  Calidadservicios@aie.es
+Antonio Martins Junior                                        06/09/2019 13:25:53 06/09/2019 13:25:39 antonio.martins@aie.es
+Angel Escobar                                                 09/09/2019 11:10:18 05/06/2019 11:19:03 angel.escobar@aie.es
+Formacion 7                                                   03/10/2019 11:54:26 05/05/2021 16:46:51 
+Formacion 9                                                   17/10/2019 11:39:28 05/05/2021 17:11:54 
+Libro 25 aniversario l25a. aie                                22/10/2019 12:26:48 22/10/2019 12:25:24 libro25aniversario@aie.es
+Carpetas Publicas O365 Definitivo                             04/11/2019 12:30:57 04/11/2019 10:23:05 cpublicasO365@aie.es
+Shared3                                                       18/11/2019 11:53:50 18/11/2019 11:47:54 carpetaspublicas2019@aie.es
+certsg                                                        22/11/2019 13:57:02 22/11/2019 13:57:01 
+encuestas1                                                    14/01/2020 12:10:49 14/01/2020 12:03:30 
+Javier Campillo                                               31/01/2020 10:13:58 26/05/2015 19:06:07 javiercampilloreino@gmail.com
+SPSvcAcc                                                      18/02/2020 10:47:40 25/03/2014 10:35:32 
+SPSearchAcc                                                   20/02/2020 16:56:02 24/03/2014 15:38:12 
+powernet Deshabilitado por defecto                            04/03/2020 16:28:15 04/03/2020 16:21:20 
+Dsocios                                                       10/03/2020 9:02:13  09/03/2020 9:13:11  departamentosocios@aie.es
+aieartistas                                                   18/03/2020 1:12:24  18/03/2020 1:08:58  aieartistas@aie.es
+Repartos Provisionales                                        27/03/2020 18:12:20 27/03/2020 18:10:52 repartosprovisionales@aie.es
+Admission Socios                                              12/05/2020 16:28:16 12/05/2020 10:22:59 admission@aie.es
+AyudAIE por EMERGENCIA                                        07/07/2020 12:23:45 25/06/2020 16:16:01 ayudaiemergencia@aie.es
+conectatemp                                                   08/07/2020 13:41:09 31/10/2007 10:24:16 
+ITSRIGHTAIE                                                   17/07/2020 8:33:12  14/10/2013 16:02:08 
+atsocio                                                       09/08/2020 10:53:06 27/02/2013 21:43:00 
+José Ruzafa Silvestre                                         26/08/2020 0:48:54  08/07/2020 9:11:39  jose.ruzafa@aie.es
+Ramon Martinez                                                28/09/2020 3:30:01  04/05/2020 21:48:20 ramon.martinez@aie.es
+Ayudas AIE                                                    09/10/2020 10:58:03 26/03/2020 14:04:04 ayudasaie@aie.es
+Cristina Armuña                                               13/11/2020 10:06:29 13/11/2020 10:06:28 cristina.armuna2@aie.es
+calidad aie                                                   25/11/2020 13:36:20 25/11/2020 13:35:16 
+File Maker                                                    31/12/2020 13:19:17 17/12/2020 13:13:41 
+powerbi                                                       11/01/2021 10:54:37 22/12/2020 17:16:23 
+Secretaria General AIE                                        03/02/2021 6:36:53  02/02/2021 16:45:36 sg@aie.es
+Usuario Fac                                                   08/03/2021 9:03:22  08/03/2021 9:03:20  usuario.fac@aie.es
+Carmen Cespon                                                 29/03/2021 9:16:06  08/04/2021 8:33:39  
+Maria Eugenia Salcedo                                         05/04/2021 12:17:49 05/04/2021 12:13:52 mariaeugenia.salcedo@aie.es
+estudiograbacion                                              07/04/2021 17:10:18 03/06/2015 14:50:08 estudiograbacion@aie.es
+Javier Plaza                                                  13/04/2021 16:35:48 13/04/2021 16:35:11 javier.plaza@aie.es
+ggcom                                                         30/04/2021 11:47:35 12/02/2021 11:25:02 
+Formacion 5                                                   03/05/2021 14:32:54 05/05/2021 16:46:18 
+Formacion 2                                                   05/05/2021 16:11:52 05/05/2021 16:45:22 
+Formacion 8                                                   05/05/2021 17:01:26 05/05/2021 16:47:07 
+Formacion 3                                                   06/05/2021 8:40:59  05/05/2021 16:45:39 
+Formacion 4                                                   06/05/2021 9:12:57  05/05/2021 16:45:55 
+Formacion 1                                                   06/05/2021 12:01:24 05/05/2021 16:45:03 formacion1@aie.es
+Acuse Admission                                               09/09/2021 8:09:50  21/06/2021 12:18:41 acuse_admission@aie.es
+consultor                                                     21/09/2021 17:50:13 06/11/2019 19:24:43 
+altas socios                                                  15/10/2021 12:11:11 15/10/2021 11:46:34 altas@aie.es
+Compras Sistemas                                              19/11/2021 19:49:22 15/09/2020 13:40:45 csistemas@aie.es
+Formacion 6                                                   19/11/2021 21:25:38 19/11/2021 21:24:41 
+Información Jurídico                                          01/12/2021 17:49:08 27/03/2020 2:01:51  infojuridico@aie.es
+userportal1                                                   10/01/2022 12:56:03 22/10/2009 16:29:11 
+Tecnicos                                                      25/01/2022 9:34:19  25/01/2022 9:16:02  
+ATENCION AL SOCIO                                             03/02/2022 12:58:26 02/03/2022 8:16:34  socios@aie.es
+Bravent Desarrollo                                            16/02/2022 9:20:52  16/02/2022 14:21:30 bravent.desarrollo@aie.es
+Test Altas                                                    21/02/2022 11:45:28 14/10/2021 16:31:19 testaltas@aie.es
+Israel Alcazar                                                21/02/2022 12:42:08 07/03/2022 13:11:12 israel.alcazar@aie.es
+Santiago De Blas                                              21/02/2022 13:12:44 27/06/2022 17:29:18 santiaqgo.deblas@aie.es
+Pilar Rodriguez (compartido)                                  10/03/2022 10:45:39 07/02/2022 9:41:41  prodriguez@aie.es
+Mantenimiento de repertorio                                   14/03/2022 7:03:50  23/03/2022 15:20:01 mantenimiento_repertorio@aie.es
+Alvaro Bermejo                                                16/03/2022 14:12:59 16/03/2022 14:42:48 alvaro.bermejo@aie.es
+Ana Dominguez                                                 16/03/2022 16:30:27 16/03/2022 16:05:04 ana.dominguez@aie.es
+AAD_281b61466b20                                              17/03/2022 15:57:30 11/06/2019 10:24:27 
+Enrique García Asensio                                        22/03/2022 5:53:02  08/01/2020 16:40:29 GASENSIO@aie.es
+Presidencia AIE                                               22/03/2022 16:05:00 02/11/2022 15:28:50 presidencia@aie.es
+Comunicacion AIE                                              23/03/2022 7:39:09  24/03/2020 15:52:46 comunicacionaie@aie.es
+Cines                                                         24/03/2022 0:39:00  12/05/2014 10:56:47 cines@aie.es
+Jesus Perez                                                   02/04/2022 23:36:53 24/08/2015 14:32:04 jesus.perez@aie.es
+Admin_AD                                                      07/04/2022 9:13:21  07/04/2022 7:02:32  Admin_AD@aie.es
+Nacho Garcia Vega                                             09/04/2022 0:07:30  12/02/2022 17:10:48 nachogvega@aie.es
+admserban                                                     19/04/2022 10:41:49 02/03/2022 17:34:49 
+HealthMailbox1c9dbe54325c4b7eaf154ce9e7977032                 12/05/2022 11:22:02 26/04/2022 17:59:10 HealthMailbox1c9dbe54325c4b7ea…
+HealthMailbox2875b75a44164f7989a732bdc237f568                 12/05/2022 12:02:17 26/04/2022 17:31:01 HealthMailbox2875b75a44164f798…
+HealthMailboxa6de6959284d4ae4880be1949089c857                 12/05/2022 12:13:48 26/04/2022 17:31:01 HealthMailboxa6de6959284d4ae48…
+HealthMailbox88c885e19cf24ee9bbd4ddaf506bcc91                 12/05/2022 12:49:22 26/04/2022 17:31:01 HealthMailbox88c885e19cf24ee9b…
+HealthMailbox7cfa546b79d7479eac13945281bfb0d1                 12/05/2022 13:03:46 26/04/2022 17:31:01 HealthMailbox7cfa546b79d7479ea…
+HealthMailbox915056c8cd9e4bb6b1d67d461e19b16f                 12/05/2022 13:16:17 26/04/2022 17:31:01 HealthMailbox915056c8cd9e4bb6b…
+Noelia Malarino                                               23/05/2022 9:19:44  11/05/2022 11:15:16 noelia.malarino@aie.es
+qlik2 view                                                    25/05/2022 10:48:13 19/11/2018 11:23:51 
+Pablo André Petroche Rivas                                    08/06/2022 9:03:30  15/07/2022 15:03:14 pablo.petroche@aie.es
+Isec Auditors                                                 09/06/2022 9:59:29  09/06/2022 13:21:57 
+Jesus Maria Roldan                                            13/06/2022 17:12:38 15/03/2017 9:20:07  
+HealthMailbox3de0b1484e364c039ab327b04f306fc7                 15/06/2022 6:59:43  11/04/2022 11:23:58 HealthMailbox3de0b1484e364c039…
+HealthMailboxc04ac08c65614d288ae3692afeee8ed0                 15/06/2022 9:14:36  11/04/2022 11:23:58 HealthMailboxc04ac08c65614d288…
+HealthMailboxf0ceb62eadec4a0b8577ee8052a4a111                 15/06/2022 9:17:07  11/04/2022 11:23:58 HealthMailboxf0ceb62eadec4a0b8…
+HealthMailboxf268ad4857254ac9885b1e693b0d1e98                 15/06/2022 10:49:40 11/04/2022 11:23:58 HealthMailboxf268ad4857254ac98…
+HealthMailboxd0f005d993e24fe693ab907cc25ab82a                 16/06/2022 6:57:56  11/04/2022 11:24:06 HealthMailboxd0f005d993e24fe69…
+HealthMailbox45ce0ad738334a63984c2caef5ab780b                 16/06/2022 9:00:10  11/04/2022 11:23:58 HealthMailbox45ce0ad738334a639…
+Jose Luis Carrascosa                                          17/06/2022 11:19:20 16/06/2022 14:24:08 joseluis.carrascosa@aie.es
+HealthMailboxe0f40cb7b48f42f18e0d5b61d4d9a694                 20/06/2022 11:40:04 11/04/2022 11:24:05 HealthMailboxe0f40cb7b48f42f18…
+HealthMailbox9ee94495774f435db586aa2abe4ac931                 22/06/2022 7:54:03  11/04/2022 11:24:05 HealthMailbox9ee94495774f435db…
+usuario3                                                      05/07/2022 12:26:36 19/05/2022 12:12:17 usuario3@aie.es
+Eduardo Bonilla                                               12/07/2022 12:56:51 08/01/2020 10:06:45 
+Teresa Amor                                                   05/08/2022 13:40:41 03/10/2019 10:41:07 teresa.amor@aie.es
+PANAIE2                                                       06/08/2022 20:31:40 05/09/2022 19:21:11 
+Juan Luis Calceteiro                                          07/11/2022 10:37:01 07/11/2022 10:36:29 juanluis.calceteiro@aie.es
+David Mendieta                                                14/11/2022 2:21:11  05/09/2022 19:20:30 infocitrix@panaiepanama.org
+PANAIE                                                        18/11/2022 3:51:43  05/09/2022 19:19:40 
+Bienvenida Garcia Usuario para SGS Socios                     20/12/2022 17:32:20 11/01/2022 13:48:33 
+Pedro Javier Lineira Perea                                    10/01/2023 12:45:48 10/01/2023 13:02:56 pedrojavier.lineira@aie.es
+Zellideth Hernández                                           19/01/2023 7:06:38  29/11/2022 16:58:58 informatica@panaiepanama.org
+Jorge De León                                                 19/01/2023 15:42:43 29/11/2022 17:42:00 attsocios@panaiepanama.org
+Univeristario 1                                               30/01/2023 10:48:07 30/01/2023 10:19:40 
+Universitario 2                                               30/01/2023 10:52:22 30/01/2023 10:20:48 
+Luis Cobos                                                    15/03/2023 21:27:02 13/09/2022 17:39:17 luiscobos@aie.es
+Carolina Perez                                                12/04/2023 8:43:16  14/04/2023 9:40:39  carolina.perez@aie.es
+Consejero4                                                    25/04/2023 10:34:19 22/07/2021 12:32:39 
+Consejero3                                                    25/04/2023 11:51:23 27/04/2022 11:19:58 
+Consejero6                                                    25/04/2023 12:09:14 22/07/2021 12:31:33 
+Consejero 9                                                   25/04/2023 12:46:07 30/01/2023 16:42:29 
+Consejero5                                                    25/04/2023 17:48:47 22/07/2021 12:33:50 
+Consejero7                                                    26/04/2023 9:07:56  22/07/2021 12:34:36 
+Susana Roman 2                                                04/05/2023 12:14:06 15/12/2021 14:20:39 
+Reuniones Presidente                                          19/05/2023 13:24:09 10/05/2023 9:06:51  reuniones.presidente@aie.es
+Asamblea AIE                                                  20/05/2023 17:37:58 10/05/2023 10:03:00 asambleaaie@aie.es
+Asamblea AIE2                                                 22/05/2023 10:15:19 08/05/2023 11:25:06 
+Asamblea AIE3                                                 23/05/2023 15:45:57 08/05/2023 11:07:07 asambleaaie3@aie.es
+Asamblea AIE4                                                 02/06/2023 16:06:02 09/05/2023 16:11:04 asambleaaie4@aie.es
+expedientes                                                   08/06/2023 7:57:08  29/06/2022 16:08:54 
+Fernando Ranz                                                 16/06/2023 8:52:41  18/04/2023 14:34:31 
+Agurtzane Ramirez                                             06/07/2023 14:38:07 06/07/2023 14:34:37 
+José Luis Nieto                                               12/07/2023 11:20:25 13/07/2023 12:17:56 joseluisnieto_1@hotmail.com
+Qv Socios                                                     13/07/2023 11:46:45 13/07/2023 11:37:51 yunier.valdes2@example.com
+Fernando Sancho                                               13/07/2023 12:00:57 13/07/2023 11:55:18 fernandosancho@mac.com
+Enrique Perdomo                                               13/07/2023 12:04:53 13/07/2023 12:04:35 
+Montserrat pratdesaba user                                    13/07/2023 12:20:54 13/07/2023 12:17:03 
+Aurora Beltran                                                13/07/2023 12:21:20 13/07/2023 12:17:29 aurora-beltran@hotmail.com
+Pedro Ruy Blas                                                13/07/2023 12:24:43 17/07/2023 11:19:04 pedro@predoryblas.com
+Susana Román Sánchez                                          13/07/2023 13:23:49 18/07/2023 9:04:36  susana.roman@aie.es
+Consejero1                                                    17/07/2023 9:21:56  21/07/2021 14:05:14 
+Pepe Sanchez                                                  17/07/2023 10:28:38 17/07/2023 10:26:14 pepe.sanchez@aie.es
+Luis Mendo                                                    17/07/2023 10:58:51 28/07/2020 10:27:47 LuisM@aie.es
+Consejero8                                                    17/07/2023 11:10:32 22/07/2021 12:35:17 
+Javier Cubedo                                                 17/07/2023 11:11:44 28/03/2022 12:20:56 JCUBEDO@aie.es
+certfac                                                       18/07/2023 15:59:50 30/03/2023 15:12:38 
+Usuario Presidencia                                           19/07/2023 19:28:04 24/03/2023 11:33:23 usuario.presidencia@aie.es
+Carlos David Godfrey                                          21/07/2023 14:02:29 25/07/2023 17:23:06 cgodfrey@aie.es
+Eduardo Casitas                                               24/07/2023 17:49:49                     ecasitas@aie.es
+Daniel Vera                                                   27/07/2023 12:43:07 18/04/2023 12:44:45 daniel.vera@aie.es
+PANAIEAIE                                                     28/07/2023 16:16:45 13/05/2020 10:58:33 
+SQLSvcAcc                                                     30/07/2023 13:31:14 13/01/2015 8:31:05  
+NOMINAS                                                       01/08/2023 12:12:20 10/08/2023 8:56:05  nominas@aie.es
+Interaccion AIE                                               02/08/2023 8:45:55  24/09/2019 13:02:53 interaccion@aie.es
+certaj                                                        04/08/2023 10:06:14 04/08/2023 10:07:40 certaj@aie.es
+Recepcion General                                             04/08/2023 16:53:45 26/07/2023 8:38:12  recepciongeneral@aie.es
+Tatiana Urrutia                                               07/08/2023 22:58:24 23/09/2019 15:08:24 tatiana.urrutia@aie.es
+Consejero2                                                    08/08/2023 10:02:50 21/07/2021 14:05:55 
+David Gonzalez                                                08/08/2023 12:28:09 18/04/2023 13:34:13 
+David Berrocal Garcia                                         09/08/2023 14:28:07 12/07/2023 11:47:33 david.berrocal@aie.es
+Sergio Gallego                                                10/08/2023 8:45:32  10/08/2023 8:14:36  sergio.gallego@aie.es
+alamo                                                         14/08/2023 8:48:52  01/08/2022 14:30:40 
+Francisco Jose Saez                                           16/08/2023 9:29:24  10/08/2023 11:17:48 
+Manuel Neyra                                                  17/08/2023 8:58:59  30/06/2023 10:20:58 manuel.neyra@broadbc.com
+aiemac                                                        21/08/2023 8:59:56  07/08/2023 9:34:06  aiemac@aie.es
+Purificación Molinero Solas                                   22/08/2023 14:24:06 08/08/2023 9:53:00  purificacion.molinero@aie.es
+Laura Gutierrez                                               22/08/2023 18:11:09 02/08/2023 12:50:40 laura.gutierrez@aie.es
+Ana María Campillo                                            23/08/2023 10:25:43 27/08/2023 18:43:03 ana.campillo@aie.es
+Javier Rubira                                                 24/08/2023 9:06:19  25/07/2023 17:22:57 jrubira@aie.es
+Driade                                                        24/08/2023 9:32:18  20/07/2023 9:46:44  
+Juan José López                                               24/08/2023 9:56:08  25/07/2023 17:22:49 jjlopez@aie.es
+orapro                                                        24/08/2023 14:00:06 12/04/2010 16:28:52 
+Adrian Criado                                                 24/08/2023 14:25:44 18/04/2023 17:26:34 
+SPFarmAcc                                                     25/08/2023 10:57:25 11/12/2014 15:58:19 
+EMC AIE                                                       25/08/2023 14:16:48 05/02/2018 12:47:38 emc@aie.es
+root                                                          25/08/2023 22:11:58 28/06/2019 12:30:48 root@aie.es
+qlik view                                                     26/08/2023 7:30:00  16/11/2018 9:37:15  qlik@aie.es
+Aida Capell                                                   26/08/2023 11:01:29 28/08/2023 9:11:12  aida.capell@aie.es
+SPAdmin                                                       26/08/2023 12:00:00 24/03/2014 15:44:25 
+Administrator                                                 26/08/2023 18:21:57 03/07/2006 16:23:12 
+Carlos Pastor                                                 27/08/2023 5:25:17  16/01/2015 14:49:07 carlos.pastor@aie.es
+oracle                                                        27/08/2023 8:00:44  11/03/2009 13:42:30 
+OSCAR CORTES MEDINA                                           27/08/2023 10:13:35 02/08/2023 8:22:55  oscar.cortes@aie.es
+Alfonso Gutierrez Morales                                     27/08/2023 22:30:03 16/08/2023 13:29:58 alfonso.gutierrez@aie.es
+Fernando Prados                                               27/08/2023 23:39:50 12/08/2019 9:37:54  fernando.prados@aie.es
+MSOL_fb06e0315209                                             27/08/2023 23:41:29 30/01/2023 10:44:42 
+svc-citrix                                                    28/08/2023 4:11:45  21/05/2018 9:37:32  
+Susana Lopez                                                  28/08/2023 7:00:42  14/08/2023 7:50:51  susana.lopez@aie.es
+portalaie portalaie                                           28/08/2023 7:32:55  13/09/2019 10:31:40 portalaie@aie.es
+Alfredo Pérez                                                 28/08/2023 7:37:04  31/07/2023 9:22:08  alfredo.perez@aie.es
+Enrique Godino Esquivias                                      28/08/2023 7:39:42  08/08/2023 23:15:21 enrique.godino@aie.es
+Angeles Jemes del Saz                                         28/08/2023 8:00:01  03/07/2023 8:27:31  angeles.jemes@aie.es
+Joan Salord                                                   28/08/2023 8:00:42  16/08/2023 8:37:54  joan.salord@aie.es
+Beatriz Diez                                                  28/08/2023 8:04:42  01/08/2023 8:10:54  beatriz.diez@aie.es
+Julia Moya Fuentes                                            28/08/2023 8:08:18  17/07/2023 16:12:19 julia.moya@aie.es
+Yunier Valdés Perez                                           28/08/2023 8:19:59  04/07/2023 13:11:17 yunier.valdes@aie.es
+DIEGO CASTAÑO                                                 28/08/2023 8:38:40  12/03/2021 13:47:33 diego.castano@aie.es
+Veronica Perez                                                28/08/2023 8:39:00  24/07/2023 8:37:41  vperez@aie.es
+Carolina Montero                                              28/08/2023 9:00:35  07/08/2023 9:54:46  carolina.montero@aie.es
+Lourdes Estrada Muñoz                                         28/08/2023 9:10:34  28/08/2023 9:37:07  lourdes.estrada@aie.es
+Diego Zavala Boogen                                           28/08/2023 9:11:37  01/08/2023 9:25:42  diego.zavala@aie.es
+Ana Díaz Escribano                                            28/08/2023 9:28:27  08/08/2023 8:17:30  Ana.Diaz@aie.es
+Lorena Quereda                                                28/08/2023 9:36:16  07/08/2023 7:52:33  lorena.quereda@aie.es
+Raúl Rodriguez                                                28/08/2023 9:53:38  25/07/2023 11:53:36 rrodriguez@aie.es
+Veronica Garcia Garcia                                        28/08/2023 10:01:42 22/08/2023 13:46:24 veronica.garcia@aie.es
+Javier Rodriguez Rascon                                       28/08/2023 10:30:15 16/08/2023 9:07:35  javier.rodriguez@aie.es
+Juan Tabares                                                  28/08/2023 10:56:49 17/08/2023 13:40:21 
+Mila Lasa Garcia                                              28/08/2023 11:17:52 16/08/2023 8:31:50  mila.lasa@aie.es
+Beatriz Gonzalez Roman                                        28/08/2023 11:31:44 04/09/2023 8:23:59  beatriz.gonzalez@aie.es
+Noelia Salas Muñiz                                            28/08/2023 11:34:14 01/08/2023 8:18:59  noelia.salas@aie.es
+Usuario Juridico 2                                            28/08/2023 12:36:20 01/08/2023 9:12:57  ujuridico2@aie.es
+Jose Luis Sevillano                                           28/08/2023 13:46:33 26/07/2023 14:17:15 jls@aie.es
+Raúl Mimo                                                     28/08/2023 19:36:13 26/01/2023 11:10:04 raul.mimo@aie.es
+SPAppPoolAcc                                                  29/08/2023 0:00:01  11/12/2014 20:52:59 
+Esther Minguez Tejeiro                                        29/08/2023 8:41:42  30/11/2020 8:54:39  esther.minguez@aie.es
+Marta Villarrubia Díaz                                        29/08/2023 9:49:57  17/07/2023 10:46:54 marta.villarrubia@aie.es
+Tatiana Romero                                                29/08/2023 9:55:48  10/07/2023 0:37:14  tatiana.romero@aie.es
+Mario Pato                                                    29/08/2023 9:57:00  23/08/2023 12:48:13 mario.pato@aie.es
+Eva Rubalcaba Blanco                                          29/08/2023 10:05:18 04/09/2023 8:26:04  eva.rubalcaba@aie.es
+Brezo González García                                         29/08/2023 10:05:19 13/07/2023 13:19:16 brezo.gonzalez@aie.es
+Pilar Rodriguez                                               29/08/2023 17:27:09 17/07/2023 11:19:10 pilar.rodriguez@aie.es
+firewall                                                      30/08/2023 4:21:07  14/01/2019 19:00:38 
+Aida Alvarez                                                  30/08/2023 7:51:11  17/07/2023 8:02:04  aida.alvarez@aie.es
+Laura Sagaz                                                   30/08/2023 8:38:19  10/07/2023 8:32:03  laura.sagaz@aie.es
+Sergio Ramos                                                  30/08/2023 8:56:25  24/07/2023 11:12:52 sergio.ramos@aie.es
+registro                                                      30/08/2023 10:06:48 28/01/2021 23:21:59 
+Rocío Portela Carballeira                                     30/08/2023 11:55:21 10/07/2023 8:14:00  rocio.portela@aie.es
+Raul Muñoz                                                    30/08/2023 12:42:34 02/03/2020 14:24:51 raul.munoz@aie.es
+GEMA SANCHEZ                                                  31/08/2023 7:59:03  01/09/2023 7:44:50  gsanchez@aie.es
+Desireé Rodriguez Medina                                      31/08/2023 8:01:45  18/07/2023 10:07:39 desiree.rodriguez@aie.es
+Pedro Rivas                                                   31/08/2023 9:17:29  19/07/2023 8:36:12  pedro.rivas@aie.es
+CECILIA CANTERO                                               31/08/2023 9:29:26  21/08/2023 8:54:39  cecilia.cantero@aie.es
+Pillar Cuesta                                                 31/08/2023 9:55:35  10/07/2023 13:35:19 
+Paloma Lopez                                                  31/08/2023 10:19:24 21/08/2023 9:40:33  paloma.lopez@aie.es
+Jose Luis Ituarte                                             31/08/2023 10:30:23 10/07/2023 12:22:20 joseluis.ituarte@aie.es
+Bienvenida García                                             31/08/2023 10:41:10 21/07/2023 9:32:25  bienvenida.garcia@aie.es
+Milena Ayu                                                    31/08/2023 10:49:51 25/08/2023 11:07:04 
+MARIA MUÑOZ                                                   31/08/2023 11:32:34 09/07/2023 21:17:50 maria.munoz@aie.es
+Aleida Nuñez                                                  31/08/2023 12:00:28 21/08/2023 8:22:34  aleida.nunez@aie.es
+Elena Barroso                                                 31/08/2023 13:00:53 14/03/2022 12:37:28 ebarroso@aie.es
+Vicent Solanes                                                31/08/2023 13:44:21 11/08/2023 14:21:45 
+Alberto Arenal                                                31/08/2023 14:45:30 04/10/2019 10:56:02 
+Pedro Gómez Guirao                                            31/08/2023 14:48:00 16/05/2019 15:47:09 Pedro.Gomez@aie.es
+Olga Madera                                                   31/08/2023 15:33:25 03/08/2023 8:19:19  olga.madera@aie.es
+Pedro Tera Martinez                                           31/08/2023 18:05:53 01/08/2023 15:17:17 pedro.tera@aie.es
+SEBASTIAN IÑIGO FERNANDEZ                                     01/09/2023 8:10:06  24/07/2023 8:11:10  sebastian.inigo@aie.es
+Irene Alonso                                                  01/09/2023 8:15:01  31/08/2023 8:12:48  irene.alonso@aie.es
+Ana María Vázquez                                             01/09/2023 8:31:03  18/07/2023 13:19:06 ANAV@aie.es
+Comunicacion Presidencia                                      01/09/2023 8:32:22  04/09/2023 0:47:44  comunicacion.presidencia@aie.es
+Rocio Navarro                                                 01/09/2023 8:40:06  29/08/2023 9:45:41  rocio.navarro@aie.es
+Nohaila El Mouden                                             01/09/2023 9:02:48  01/09/2023 10:22:35 
+Carmen Roque Paez                                             01/09/2023 9:14:31  24/07/2023 14:36:07 carmen.roque@aie.es
+Irene Novillo                                                 01/09/2023 11:20:03 10/07/2023 13:08:30 irene.novillo@aie.es
+Irene Del Castillo                                            01/09/2023 12:34:33 07/08/2023 10:21:11 irene.delcastillo@aie.es
+Iván Velasco                                                  01/09/2023 13:56:50 20/07/2023 10:50:16 ivan.velasco@aie.es
+Maria Jose Rubio                                              01/09/2023 16:55:23 05/07/2023 11:47:23 mariajose.rubio@aie.es
+Recepcion Barcelona                                           03/09/2023 15:01:09 07/01/2020 10:37:34 recepcion.barcelona@aie.es
+MSOL_cb4afed8c157                                             03/09/2023 18:47:41 31/03/2022 18:28:57 
+Nuria Rojas                                                   03/09/2023 20:52:30 11/08/2023 16:38:40 nuria.rojas@aie.es
+Eventos                                                       04/09/2023 0:02:49  10/10/2019 10:28:27 eventos@aie.es
+Rosario González Arroyo                                       04/09/2023 7:42:40  24/07/2023 8:23:21  rosario.gonzalez@aie.es
+FERNANDO VIÑUALES CARRERA                                     04/09/2023 7:51:06  04/09/2023 7:54:18  fernando.vinuales@aie.es
+Esperanza Martín                                              04/09/2023 7:59:17  04/09/2023 7:59:17  esperanza.martin@aie.es
+Javier Salinero                                               04/09/2023 8:31:35  07/07/2023 11:16:01 fjavier.salinero@ruleeleven.es
+Greta Seitl Bengoa                                            04/09/2023 8:40:27  28/08/2023 8:18:27  GRETA@aie.es
+Asuncion Tamayo                                               04/09/2023 8:42:07  27/08/2023 12:08:39 asuncion.tamayo@aie.es
+RAQUEL ARENAS RUZ                                             04/09/2023 9:02:19  10/07/2023 11:28:26 raquel.arenas@aie.es
+Patricia Pérez                                                04/09/2023 9:17:54  10/08/2023 6:48:46  PATRICIA@aie.es
+Alvaro Hernandez Pinzón                                       04/09/2023 9:20:36  11/07/2023 8:44:03  alvaro.hpinzon@aie.es
+Miguel Cubedo                                                 04/09/2023 9:52:02  18/07/2023 10:11:06 miguel.cubedo@aie.es
+AIE25                                                         04/09/2023 9:58:35  06/10/2022 17:20:04 aie25@aie.es
+Patricia Valdes                                               04/09/2023 10:18:42 24/07/2023 10:11:22 usuario.presidencia2@aie.es
+Alvaro Alonso                                                 04/09/2023 10:35:54 04/09/2023 10:59:42 alvaro.alonso@aie.es
+Canon                                                         04/09/2023 10:59:37 28/10/2014 13:22:12 
+Paloma Hormigos                                               04/09/2023 11:22:10 10/07/2023 9:51:16  paloma.hormigos@aie.es
+Idoia Garcia                                                  04/09/2023 11:23:51 10/07/2023 10:44:54 idoia.garcia@aie.es
+Fernando Serban                                               04/09/2023 11:39:43 21/06/2023 11:11:41 fserban@aie.es
+test perez                                                    04/09/2023 12:06:14 04/09/2023 11:25:02 
+PSadmin Service                                               04/09/2023 14:06:18 10/08/2023 9:38:43  
+

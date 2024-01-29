@@ -1,0 +1,20 @@
+## Esta es la definición de un recurso del tipo "servicio" que a su vez es del tipo "LoadBalancer" 
+## el servicio buscará una de las IP definidas en el "ipAddressPool", hara que el servicio 
+# sea accesible desde el exterior del cluster por la ip seleccionada y el puerto 8080.  Además, hará un balance de carga redirigiendo el trafico
+# A los Pods con la etiqueta "app: glpi" (estos Pods exponen el puerto 80)
+### LO IPORTANTE ###
+## A este servicio se le definió un "annotations" en el cual se define el rango de direcciones que debe elegir para provisionar el servicio
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: load-b
+  annotations:
+      metallb.universe.tf/address-pool: first-pool
+spec:
+  type: LoadBalancer
+  ports: 
+  - port: 8080
+    targetPort: 80
+  selector:
+    app: glpi

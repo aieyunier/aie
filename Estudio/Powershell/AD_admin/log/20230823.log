@@ -1,0 +1,25 @@
+08/23/2023 11:56:06 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+08/23/2023 12:00:18 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:02:20 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/23/2023 12:04:30 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario  
+08/23/2023 12:36:40 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:37:04 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:40:52 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:41:55 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:50:22 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:50:40 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:50:58 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de todos los usuarios del Active Directory
+08/23/2023 12:53:13 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+08/23/2023 12:54:08 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+08/23/2023 12:54:24 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de todos los usuarios del Active Directory
+08/23/2023 12:54:45 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con claves proximo a expirar en el Active Directory
+08/23/2023 12:55:51 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con clave que no expiran en el Active Directory
+08/23/2023 12:56:14 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory
+08/23/2023 12:56:26 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios deshabilitados en el Active Directory
+08/23/2023 12:56:54 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:57:21 - Usuario: psadmin - Accion: Reporte de computadoras - Mensaje: Se hizo un reporte de todas las computadoras del Active Directory
+08/23/2023 12:59:06 - Usuario: psadmin - Accion: cambio de clave - Mensaje: Se cambio la clave del usuario: test
+08/23/2023 13:00:02 - Usuario: psadmin - Accion: Visor de eventos - Mensaje: revision de logs de inicio de sesion de u suario test test
+08/23/2023 14:03:39 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory
+08/23/2023 14:04:44 - Usuario: psadmin - Accion: desbloqueo de cuenta - Mensaje: Se desbloqueo la cuenta de usuario: test
+08/23/2023 14:04:53 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios bloqueados en el Active Directory

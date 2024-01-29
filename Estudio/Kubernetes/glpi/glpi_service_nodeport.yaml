@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: glpi-service
+spec:
+  selector:
+    app: glpi
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      nodePort: 30080  # Puerto que será accesible desde el exterior
+  type: NodePort

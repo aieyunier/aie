@@ -1,0 +1,5 @@
+09/15/2023 07:51:34 - Usuario:  - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario . Verifique usuario y clave.
+09/15/2023 07:51:35 - Usuario:  - Accion: Inicio de sesion - Mensaje: Error al autenticar el usuario . Verifique usuario y clave.
+09/15/2023 07:53:31 - Usuario: psadmin - Accion: Inicio de sesion - Mensaje: psadmin se ha autenticado satisfactoriamente
+09/15/2023 09:29:17 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de los usuarios con claves proximo a expirar en el Active Directory
+09/15/2023 11:47:38 - Usuario: psadmin - Accion: Reporte de usuario - Mensaje: Se hizo un reporte de todos los usuarios del Active Directory

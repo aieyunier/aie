@@ -1,0 +1,2 @@
+# Definir las propiedades que deseas recuperar del Active Directory
+$adUserProperties = @('Name', 'PasswordNeverExpires', 'mail', 'PasswordExpired', 'PasswordLastSet', 'LastLogonDate', 'Enabled', 'LockedOut')

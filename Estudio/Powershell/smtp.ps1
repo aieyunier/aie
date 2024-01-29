@@ -1,0 +1,1 @@
+Send-MailMessage -From 'Yunier <yunier.valdes@aie.es>' -To 'Yunier <yunier.valdes@aie.es>' -Subject 'Test mail'

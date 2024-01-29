@@ -1,0 +1,34 @@
+solo ejecutar "docker-compose up -d"
+acceder a http://localhost:80  (es el servicio del blanceador)
+
+En este proyecto se crea un Stack de 5 contenedores, con las carateristicas que se describen
+
+redis:
+servidor redis, que se crea a partir de una imagen oficial de docker hub
+
+bd:
+servidor mariadb, que se crea a partir de una imagen oficial de docker hub
+se crea un volumen en la carpeta "data" para la persistencia de los datos
+
+web y web2:
+se compila mediante el "dockerfile" que se encuentra en la carpeta "web"
+se instalan las dependencia php-mysq
+se instalan las dependencias php-redis
+se cargan los modulos necesarios de PHP
+se crea un volumen en la carpeta "html" para codigo de la aplicacion (desarrollo)
+se expone el puerto 8080 para el acceso al servicio
+la aplicacion web se accede a cada servidor de manera indempendiente 
+web ---> http://localhost:8080
+web2 ---> http://localhost:8081
+
+balanceador:
+se crea a partir de una imagen de nginx
+se monta el fichero de confiuracion como un volumen para hacer puebas
+el balanceador escucha por el puert 80 y distribuye la carga entre we y web2
+
+notas: 
+la aplicacion web es un simple script php que:
+testea conexion a la BD mysql
+inicializa la bd "app1" 
+testea el acceso a redis
+permite crear entradas en la bd mysql

@@ -1,0 +1,35 @@
+
+
+regedit
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
+
+Encuentra o crea el valor de registro "FIPSAlgorithmPolicy": Si este valor ya existe, procede al paso 5. Si no existe, haz clic derecho en un espacio vacío dentro del panel derecho, selecciona "Nuevo" y luego "Valor DWORD (32 bits)".
+
+Cambia el valor de "FIPSAlgorithmPolicy" a 0: Haz doble clic en el valor "FIPSAlgorithmPolicy" y establece su valor en 0 (cero). Esto deshabilitará FIPS.
+
+Reinicia el sistema: Para que los cambios surtan efecto, es necesario reiniciar el sistema.
+
+GPO
+Configuración del equipo > Directivas > Configuración de Windows > Configuración de seguridad > Directivas locales > Opciones de seguridad
+Busca la configuración de "Directiva de sistema criptográfico: Habilitar algoritmos de cifrado compatibles con FIPS": Haz doble clic en la configuración mencionada para editarla.
+
+Deshabilita la configuración: En la ventana de configuración, selecciona la opción "Deshabilitada".
+
+
+
+# Ruta del Registro donde se encuentra la configuración de FIPS
+$registryPath = "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
+
+# Nombre del valor que controla FIPS
+$valueName = "FIPSAlgorithmPolicy"
+
+# Deshabilita FIPS (valor 0)
+Set-ItemProperty -Path $registryPath -Name $valueName -Value 0
+gpupdate /force
+Set-ItemProperty -Path $registryPath -Name $valueName -Value 1
+
+
+$valueName = "FIPSAlgorithmPolicy"
+$registryPath = "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
+Set-ItemProperty -Path $registryPath -Name $valueName -Value 0
+gpupdate /force

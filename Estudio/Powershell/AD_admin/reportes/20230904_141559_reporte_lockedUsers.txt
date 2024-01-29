@@ -1,0 +1,74 @@
+
+PasswordLastSet : 
+LastLogonDate   : 
+Mail            : 
+LockedOut       : True
+Name            : Guest
+
+PasswordLastSet : 31/05/2006 5:03:12
+LastLogonDate   : 
+Mail            : 
+LockedOut       : True
+Name            : SUPPORT_388945a0
+
+PasswordLastSet : 03/07/2006 17:19:04
+LastLogonDate   : 
+Mail            : informacion@aie.es
+LockedOut       : True
+Name            : información
+
+PasswordLastSet : 03/07/2006 17:19:04
+LastLogonDate   : 
+Mail            : 
+LockedOut       : True
+Name            : anonymous
+
+PasswordLastSet : 10/09/2012 13:41:30
+LastLogonDate   : 
+Mail            : aie.desarrollo@aie.es
+LockedOut       : True
+Name            : Desarrollo AIE
+
+PasswordLastSet : 25/03/2014 8:38:07
+LastLogonDate   : 
+Mail            : 
+LockedOut       : True
+Name            : SqlAdmin
+
+PasswordLastSet : 15/10/2020 11:41:36
+LastLogonDate   : 
+Mail            : Paypal@aie.es
+LockedOut       : True
+Name            : paypal
+
+PasswordLastSet : 30/08/2011 10:25:57
+LastLogonDate   : 12/09/2011 13:53:27
+Mail            : video@aie.es
+LockedOut       : True
+Name            : video
+
+PasswordLastSet : 05/04/2019 14:19:06
+LastLogonDate   : 30/05/2019 9:00:27
+Mail            : pedro.valiente@aie.es
+LockedOut       : True
+Name            : Pedro Valiente
+
+PasswordLastSet : 13/11/2020 10:06:28
+LastLogonDate   : 13/11/2020 10:06:29
+Mail            : cristina.armuna2@aie.es
+LockedOut       : True
+Name            : Cristina Armuña
+
+PasswordLastSet : 15/07/2022 15:03:14
+LastLogonDate   : 08/06/2022 9:03:30
+Mail            : pablo.petroche@aie.es
+LockedOut       : True
+Name            : Pablo André Petroche Rivas
+
+PasswordLastSet : 17/07/2023 10:26:14
+LastLogonDate   : 17/07/2023 10:28:38
+Mail            : pepe.sanchez@aie.es
+LockedOut       : True
+Name            : Pepe Sanchez
+
+

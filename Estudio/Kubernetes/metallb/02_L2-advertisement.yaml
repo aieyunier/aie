@@ -1,0 +1,15 @@
+## mediante esta configuración se define el modo en que el load balancer anuncia su dirección IP a los nodos (mediante ARP)
+## existe otros modos de configuración mediante BGP, que se explican en la documentación del "metallb"
+## Nótese que en la seccion "ipAddressPool" se indica el nombre del AddressPool que se quiere anuncia, y que está definido previamente
+## en el caso que no se defina un "ipAddressPool" el sistema entenderá que debe anunciar todos los disponibles
+apiVersion: metallb.io/v1beta1
+kind: L2Advertisement
+metadata:
+  name: example
+  namespace: metallb-system
+spec:
+  ipAddressPools:
+  - first-pool
+
+  ## esta configuración se corresponde con la definida para "layer 2" en la documentación de "metallb"
+  ## detalles en esta web: https://metallb.universe.tf/configuration/

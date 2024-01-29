@@ -1,0 +1,95 @@
+version: '2'
+# definicion de los servicios (redis, db y web)
+services:
+  # Definicion del servicio REDIS
+  redis:
+    # imagen apline mas ligera
+    image: redis:7.2-rc2-alpine 
+    # que se inicie con el servicio docker
+    restart: always 
+    ports:
+    # para hacer pruebas desde el docker host
+    # en produccion se puede quitar esta linea 
+    # dado que el servicio sera accedido solo 
+    # por los servidores web del stack 
+      - "6379:6379"
+    # no iniciara sin el servicio db no inicio ok
+    depends_on:
+      - db
+  # Definicion de l servicio db  
+  db:
+    # se usa una version estable de mariadb
+    image: mariadb:10.6.14-focal
+    # para que el servicio inicie con docker
+    restart: always
+    # definicion de las variables de entorno para
+    # inicializar la bd
+    # y crear el acceso
+    environment:
+      MYSQL_ROOT_PASSWORD: m4st3rk3y++
+      MYSQL_DATABASE: app1
+      MYSQL_USER: appuser
+      MYSQL_PASSWORD: app1123*
+    # para hacer pruebas desde el docker host
+    # en produccion se puede quitar esta linea 
+    # dado que el servicio sera accedido solo 
+    # por los servidores del stack 
+    ports:
+      - "3306:3306"
+    # crear un volumen para que no se pirdan los 
+    # datos de la bd (debe existir la carpeta local)
+    volumes:
+      - ./data:/var/lib/mysql
+  # Definicion del servicio web
+  web:
+    #se compila la imagen a partir del dockerfile 
+    #donde se instalan los componentes PHP necesarios 
+    # para la conexion con mariaDB y Redis
+    build: ./web
+    # se define un volume para hacer modificaciones 
+    # en el script php (entorno desarrollo)
+    volumes:
+      - ./html:/var/www/html
+    # se mapea el puerto para ser accedido via http
+    ports:
+      - "8080:80"
+    # no iniciara sin el servicio db no inicio ok
+    depends_on:
+      - db
+
+  web2:
+    #se compila la imagen a partir del dockerfile 
+    #donde se instalan los componentes PHP necesarios 
+    # para la conexion con mariaDB y Redis
+    build: ./web2
+    # se define un volume para hacer modificaciones 
+    # en el script php (entorno desarrollo)
+    volumes:
+      - ./html2:/var/www/html
+    # se mapea el puerto para ser accedido via http
+    ports:
+      - "8081:80"
+    # no iniciara sin el servicio db no inicio ok
+    depends_on:
+      - db
+
+  #definicion de servicio nginex que hara de balanceador
+  balanceador:
+    build: ./balanceador
+    volumes:
+      - ./balanceador/nginx:/etc/nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - web
+
+
+
+##  este Dockercompose crea un stack de 3 contenedores
+# bd -- servidor mariadb donde se almacenaran los datos de la aplicacion
+# web -- se accedera por el puerto 8080 
+# redis -- se podra consumir el servicio mediante el 
+# puerto 6379
+
+# ejecutar:
+# docker-compose up -d

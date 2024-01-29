@@ -1,0 +1,425 @@
+
+OperatingSystemVersion OperatingSystem                   Name                LastLogonDate
+---------------------- ---------------                   ----                -------------
+13.2.1                 macOS                             001-019-001         04/09/2023 13:17:37
+12.2.1                 macOS                             mbp-de-aie          04/09/2023 12:49:52
+6.3 (9600)             Windows Server 2012 R2 Datacenter HERACLES            04/09/2023 12:43:54
+6.2 (9200)             Windows Server 2012 Datacenter    HERMES              04/09/2023 11:55:31
+10.0 (19045)           Windows 10 Pro                    PTHP6503MAD028      04/09/2023 11:23:36
+10.0 (22621)           Windows 11 Pro                    001-016-001         04/09/2023 10:18:37
+10.0 (19045)           Windows 10 Pro                    PTCDE05             04/09/2023 10:13:14
+10.0 (22621)           Windows 11 Pro                    001-008-004         04/09/2023 10:00:41
+10.9.2                 Mac OS X                          aie25               04/09/2023 9:58:09
+10.0 (19045)           Windows 10 Pro                    PTLV0E095           04/09/2023 9:49:54
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD093      04/09/2023 9:20:36
+10.0 (19045)           Windows 10 Pro                    PTLV0L15MAD066      04/09/2023 9:04:04
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD010      04/09/2023 9:02:26
+10.0 (22621)           Windows 11 Pro                    PTLV0E14MAD97       04/09/2023 8:40:46
+10.0 (19044)           Windows 10 Pro                    PTLV0L15MAD062      04/09/2023 8:39:37
+10.0 (19045)           Windows 10 Pro                    MCSW1008            04/09/2023 8:32:05
+10.0 (19044)           Windows 10 Pro                    001-007-004         04/09/2023 8:27:26
+10.0 (19045)           Windows 10 Pro                    MCSW10F05           04/09/2023 8:26:18
+10.0 (19045)           Windows 10 Pro                    001-007-014         04/09/2023 8:23:00
+10.0 (19045)           Windows 10 Enterprise             PCIMAC24MAD085      04/09/2023 8:22:37
+10.0 (19045)           Windows 10 Pro                    MCSW10F03           04/09/2023 8:22:30
+10.0 (19045)           Windows 10 Pro                    PTLV0E14SVQ098      04/09/2023 8:21:23
+10.0 (19045)           Windows 10 Pro                    001-007-007         04/09/2023 8:20:27
+10.0 (19045)           Windows 10 Pro                    001-007-013         04/09/2023 8:13:58
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD107      04/09/2023 8:10:37
+10.0 (19045)           Windows 10 Pro                    PTHP50G6MAD014      04/09/2023 8:07:45
+10.0 (19045)           Windows 10 Pro                    001-007-005         04/09/2023 7:47:03
+6.3 (9600)             Windows Server 2012 R2 Datacenter FILAIE              04/09/2023 7:32:14
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715DDC02          03/09/2023 16:49:25
+6.1 (7601)             Windows 7 Professional            XDMCSW705           03/09/2023 13:02:51
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud31           03/09/2023 9:53:55
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCITRIXCC02        03/09/2023 2:30:32
+8.1.2                  OnTap                             FAS3220-UP          03/09/2023 0:36:43
+8.1.2                  OnTap                             FAS3220-DW          03/09/2023 0:29:02
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715STF01          02/09/2023 21:59:42
+6.3 (9600)             Windows Server 2012 R2 Datacenter FENIX               02/09/2023 19:29:40
+unknown                unknown                           VICENTER            02/09/2023 14:47:04
+5.2 (3790)             Windows Server 2003               INTRANETAIE         02/09/2023 14:23:16
+6.3 (9600)             Windows Server 2012 R2 Datacenter REPORTING           02/09/2023 11:42:06
+6.2 (9200)             Windows Server 2012 Datacenter    ATLAS               02/09/2023 11:35:06
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715STF02          02/09/2023 6:37:20
+6.3 (9600)             Windows Server 2012 R2 Datacenter MAYA                02/09/2023 5:13:10
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76STF02           01/09/2023 18:35:07
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76SQL01           01/09/2023 18:25:11
+10.0 (19043)           Windows 10 Enterprise             WPTAIE12            01/09/2023 16:32:23
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715DDC01          01/09/2023 16:26:58
+10.0 (19042)           Windows 10 Pro                    MCSCloudw103        01/09/2023 15:35:11
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSA03              01/09/2023 15:06:38
+10.0 (19045)           Windows 10 Pro                    PTHP6503MAD029      01/09/2023 14:28:21
+6.3 (9600)             Windows Server 2012 R2 Datacenter APOLO               01/09/2023 12:14:24
+10.0 (22621)           Windows 11 Pro                    WPTAIE00            01/09/2023 9:31:07
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud21           01/09/2023 7:32:14
+6.1 (7601)             Windows Server 2008 R2 Datacenter ZEUS                01/09/2023 0:04:39
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIE03             31/08/2023 21:09:07
+6.2 (9200)             Windows Server 2012 Datacenter    CALIPSO             31/08/2023 20:31:49
+10.0 (19045)           Windows 10 Pro                    MCSW1003            31/08/2023 18:40:15
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCLDADM03          31/08/2023 16:02:15
+                       EMC File Server                   emc350mp            31/08/2023 15:51:45
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS01               31/08/2023 15:20:12
+10.0 (19045)           Windows 10 Pro                    WIN10PRO            31/08/2023 13:12:02
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud10           31/08/2023 12:20:02
+10.0 (19045)           Windows 10 Pro                    MCSW10F02           31/08/2023 11:38:37
+10.0 (19045)           Windows 10 Pro                    MCSW10F01           31/08/2023 11:34:29
+10.0 (19045)           Windows 10 Pro                    WPTCDE07            31/08/2023 10:59:17
+6.3 (9600)             Windows Server 2012 R2 Datacenter PRTG19              31/08/2023 10:49:37
+10.0 (22621)           Windows 11 Pro                    001-010-013         31/08/2023 10:48:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud09           31/08/2023 10:28:30
+10.0 (19045)           Windows 10 Pro                    PTCDE02             31/08/2023 9:52:38
+10.0 (19045)           Windows 10 Pro                    PTHP4506MAD019      31/08/2023 9:05:54
+10.0 (22621)           Windows 11 Pro                    001-007-010         31/08/2023 8:42:19
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD091      31/08/2023 8:31:14
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud08           31/08/2023 8:10:01
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud02           31/08/2023 8:01:17
+10.0 (19045)           Windows 10 Pro                    MCSW10F04           31/08/2023 8:00:19
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud414          31/08/2023 7:33:59
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud07           31/08/2023 7:33:30
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud41           31/08/2023 7:21:06
+6.3 (9600)             Windows Server 2012 R2 Datacenter CASIOPEA            31/08/2023 2:40:44
+5.2 (3790)             Windows Server 2003               SOL                 30/08/2023 17:11:22
+10.0 (19042)           Windows 10 Pro                    MCSCloudw102        30/08/2023 15:02:02
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud03           30/08/2023 13:02:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter QVIEW               30/08/2023 10:44:00
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud12           30/08/2023 10:37:52
+10.0 (19044)           Windows 10 Pro                    PTMCSFGOMAD088      30/08/2023 10:12:26
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD102      30/08/2023 8:49:17
+10.0 (19045)           Windows 10 Pro                    001-007-006         30/08/2023 8:38:17
+10.0 (19045)           Windows 10 Pro                    001-007-012         30/08/2023 8:29:42
+10.0 (19045)           Windows 10 Pro                    PTHP40G8MAD089      30/08/2023 7:48:20
+10.0 (19045)           Windows 10 Pro                    MCSW10010           30/08/2023 5:02:55
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76STF01           30/08/2023 0:13:53
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS02               29/08/2023 22:44:09
+6.3 (9600)             Windows Server 2012 R2 Datacenter KOFAX               29/08/2023 16:46:56
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCLDADM01          29/08/2023 15:45:01
+10.0 (22621)           Windows 11 Pro                    001-009-001         29/08/2023 13:21:39
+6.3 (9600)             Cohesity                          COHESITY            29/08/2023 11:46:09
+6.1 (7600)             Windows Server 2008 R2 Standard   PANAIE              29/08/2023 10:32:03
+10.0 (20348)           Windows Server 2022 Datacenter    MADRID              29/08/2023 9:52:39
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD009      29/08/2023 9:44:01
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD109      29/08/2023 9:15:33
+10.0 (22000)           Windows 11 Pro                    001-015-04          29/08/2023 8:40:45
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD103      29/08/2023 8:25:32
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD096      29/08/2023 8:04:23
+10.0 (19045)           Windows 10 Pro for Workstations   PTLVOE14MAD98       29/08/2023 7:58:29
+10.0 (19045)           Windows 10 Pro                    MCSW10F08           29/08/2023 7:53:41
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud04           29/08/2023 7:50:30
+11.6 (165)             macOS                             imacsilvia2020      29/08/2023 7:23:35
+10.0 (19044)           Windows 10 Pro for Workstations   TESEO               29/08/2023 6:26:57
+6.3 (9600)             Windows Server 2012 R2 Datacenter NEPTUNO             29/08/2023 5:06:18
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76DDC01           29/08/2023 4:53:01
+                       EMC File Server                   emc350af            29/08/2023 0:38:27
+6.3 (9600)             Windows Server 2012 R2 Datacenter HERCULES            28/08/2023 19:20:39
+10.0 (19045)           Windows 10 Pro                    XDPANAIE102         28/08/2023 18:25:39
+6.2 (9200)             Windows Server 2012 Datacenter    EUROPA              28/08/2023 18:06:24
+10.0 (19045)           Windows 10 Pro                    MCSW10F07           28/08/2023 14:58:44
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud022          28/08/2023 14:20:59
+10.0 (20348)           Windows Server 2022 Datacenter    MARSELLA            28/08/2023 13:42:16
+6.3 (9600)             Windows Server 2012 R2 Datacenter EROS                28/08/2023 12:53:05
+6.1 (7601)             Windows 7 Professional            XDMCSX8602          28/08/2023 10:37:13
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD111      28/08/2023 10:10:13
+10.0 (19045)           Windows 10 Pro                    001-010-015         28/08/2023 9:13:14
+10.0 (22621)           Windows 11 Pro                    001-016-004         28/08/2023 9:09:12
+10.0 (19045)           Windows 10 Pro                    001-007-003         28/08/2023 9:00:47
+10.0 (19044)           Windows 10 Pro                    PTLV0L15BCN078      28/08/2023 8:46:45
+10.0 (19045)           Windows 10 Pro                    001-007-002         28/08/2023 8:37:06
+10.0 (19045)           Windows 10 Pro                    001-007-011         28/08/2023 8:33:53
+10.0 (19045)           Windows 10 Pro                    MCSW1005            28/08/2023 8:32:33
+10.0 (19045)           Windows 10 Pro                    MCSW1004            28/08/2023 8:32:00
+10.0 (19045)           Windows 10 Pro                    MCSW1007            28/08/2023 8:31:57
+10.0 (19045)           Windows 10 Pro                    MCSW1002            28/08/2023 8:31:56
+10.0 (19045)           Windows 10 Pro                    MCSW1001            28/08/2023 8:31:54
+10.0 (19045)           Windows 10 Pro                    MCSW10011           28/08/2023 8:31:54
+10.0 (22621)           Windows 11 Pro                    001-016-006         28/08/2023 8:19:43
+10.0 (20348)           Windows Server 2022 Datacenter    PARIS               28/08/2023 8:09:32
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD104      28/08/2023 8:05:12
+10.0 (22621)           Windows 11 Pro                    001-016-005         28/08/2023 7:59:19
+10.0 (19045)           Windows 10 Pro                    MCSW1006            28/08/2023 7:57:30
+                                                         NASISTEMAS          28/08/2023 7:57:05
+10.0 (19045)           Windows 10 Pro                    PTHP50G6MAD012      28/08/2023 7:56:00
+10.0 (22621)           Windows 11 Pro                    PTLVE14MAD092       28/08/2023 7:52:00
+10.0 (19045)           Windows 10 Pro                    PTHP40G6MAD043      28/08/2023 7:39:46
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD106      28/08/2023 7:37:18
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud05           28/08/2023 7:31:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud30           28/08/2023 7:01:20
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud01           28/08/2023 7:01:20
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud11           28/08/2023 6:18:44
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC01       28/08/2023 4:51:05
+6.1 (7601)             Windows Server 2008 R2 Standard   VEGA                28/08/2023 3:00:54
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCLDADM02          28/08/2023 2:19:45
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD008      27/08/2023 23:39:57
+6.3 (9600)             Windows Server 2012 R2 Datacenter ARES                27/08/2023 19:31:34
+10.0 (19045)           Windows 10 Pro                    IRIS                27/08/2023 11:39:44
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud413          27/08/2023 8:35:42
+6.2 (9200)             Windows Server 2012 Datacenter    PROMETEO            27/08/2023 6:33:21
+6.3 (9600)             Windows Server 2012 R2 Datacenter PERSEO              27/08/2023 3:39:13
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76AIE02           27/08/2023 0:37:25
+6.3 (9600)             Windows Server 2012 R2 Datacenter COLUMBA             26/08/2023 22:22:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter ULISES              26/08/2023 19:52:09
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715WEM01          26/08/2023 19:39:02
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIE04             26/08/2023 17:42:43
+6.3 (9600)             Windows Server 2012 R2 Datacenter ATENEA              26/08/2023 12:02:19
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD7APP02            26/08/2023 6:40:05
+6.2 (9200)             Windows Server 2012 Datacenter    UNIFLOW             26/08/2023 5:34:25
+unknown                unknown                           VICENTER01          26/08/2023 4:49:28
+6.3 (9600)             Windows Server 2012 R2 Datacenter RADIUS              26/08/2023 3:40:54
+6.1 (7601)             Windows 7 Professional            XDMCSX8601          26/08/2023 2:37:52
+6.3 (9600)             Windows Server 2012 R2 Datacenter TRITON              25/08/2023 20:49:23
+6.3 (9600)             Windows Server 2012 R2 Standard   MEDIAAGENT          25/08/2023 16:34:15
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD7APP08            25/08/2023 14:19:35
+10.0 (19045)           Windows 10 Pro                    001-015-002         25/08/2023 13:39:19
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCITRIXCC01        25/08/2023 9:52:23
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   SIS                 25/08/2023 3:38:36
+10.0 (19042)           Windows 10 Pro                    MCSCloudw101        25/08/2023 1:22:55
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC02       24/08/2023 17:25:04
+6.3 (9600)             Windows Server 2012 R2 Datacenter XdCloud20           24/08/2023 14:48:58
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSFAC18            24/08/2023 13:24:35
+10.0 (19045)           Windows 10 Pro                    MCSW10F06           24/08/2023 9:01:44
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS06               24/08/2023 4:28:19
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSSR01             23/08/2023 19:26:54
+10.0 (19045)           Windows 10 Pro                    MCSW10J01           23/08/2023 18:19:49
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSA02              23/08/2023 15:47:03
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSFAC19            23/08/2023 13:26:13
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD108      23/08/2023 7:54:34
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD105      23/08/2023 7:40:34
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCLOUDPAN02        22/08/2023 13:49:16
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDCLOUDPAN01        22/08/2023 13:49:11
+10.0 (22621)           Windows 11 Pro                    001-015-003         22/08/2023 13:15:19
+10.0 (19045)           Windows 10 Pro                    001-007-008         22/08/2023 8:47:11
+10.0 (22621)           Windows 11 Pro                    001-016-003         22/08/2023 8:37:40
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS08               22/08/2023 5:59:27
+12.3                   macOS                             macpro_sumika       21/08/2023 8:59:32
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD112      21/08/2023 8:34:37
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSA01              21/08/2023 5:03:33
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS09               20/08/2023 19:29:57
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSEE02             19/08/2023 20:59:28
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSPRES25           18/08/2023 12:15:33
+6.3 (9600)             Windows Server 2012 R2 Datacenter tecnicos01          17/08/2023 19:09:48
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSDS1              17/08/2023 1:33:16
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCS17               16/08/2023 15:39:23
+10.0 (22621)           Windows 11 Pro                    PTLV0E14MAD114      16/08/2023 8:09:14
+10.0 (19044)           Windows 10 Pro                    001-015-005         14/08/2023 11:39:54
+10.0 (19045)           Windows 10 Pro                    PTLV0L15BCN077      14/08/2023 9:21:21
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMASTERCLOUD       11/08/2023 12:49:08
+10.0 (19044)           Windows 10 Pro                    PTLV0L15SVQ079      10/08/2023 9:33:55
+10.0 (19045)           Windows 10 Pro for Workstations   PTLV0E14MAD101      10/08/2023 9:02:47
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD100      10/08/2023 8:32:48
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD113      08/08/2023 9:03:47
+10.0 (19045)           Windows 10 Pro                    001-007-009         08/08/2023 8:49:17
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD095      07/08/2023 8:45:18
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD007      01/08/2023 9:25:57
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD110      01/08/2023 9:19:53
+6.3 (9600)             Windows Server 2012 R2 Datacenter MASTERCLOUDPRE      01/08/2023 8:51:51
+10.0 (19045)           Windows 10 Pro                    PCHPX360MAD011      01/08/2023 8:46:29
+10.0 (19045)           Windows 10 Pro                    PTLV0E14SVQ099      01/08/2023 7:50:37
+10.0 (19045)           Windows 10 Pro                    001-015-006         27/07/2023 15:54:43
+10.0 (22621)           Windows 11 Pro                    001-016-002         24/07/2023 11:13:11
+10.14 (132)            Mac OS X                          mbp-de-fernando     17/07/2023 11:00:44
+10.0 (22621)           Windows 11 Pro                    001-015-001         17/07/2023 9:22:07
+10.0 (19045)           Windows 10 Pro                    001-015-008         14/07/2023 11:37:36
+10.0 (19045)           Windows 10 Pro                    001-015-007         12/07/2023 11:20:01
+10.0 (19045)           Windows 10 Pro                    PTLV0E14MAD099      06/07/2023 11:53:53
+10.0 (22621)           Windows 11 Pro                    001-017-001         19/06/2023 11:17:48
+10.0 (19045)           Windows 10 Pro                    PTHP4506MAD020      19/06/2023 8:17:52
+10.0 (19044)           Windows 10 Pro                    WPTAIE07            06/06/2023 12:06:56
+10.0 (19045)           Windows 10 Pro                    PTLV0E14BCN097      19/05/2023 8:53:27
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSSR02             14/05/2023 12:18:28
+6.1 (7601)             Windows 7 Professional            XDMCSW704           14/05/2023 6:31:28
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSEE01             13/05/2023 19:29:39
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIE05             13/05/2023 10:54:04
+10.0 (19045)           Windows 10 Pro                    PTAIE11             03/04/2023 13:08:33
+10.0 (19044)           Windows 10 Pro                    WPTAIE22            03/04/2023 7:32:11
+10.0 (19045)           Windows 10 Pro                    001-011-003         27/03/2023 11:12:55
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMCS226            24/03/2023 8:34:46
+6.3 (9600)             Windows Server 2012 R2 Datacenter WINDOWS2012         23/03/2023 13:02:07
+10.0 (19044)           Windows 10 Pro for Workstations   HADES               22/03/2023 12:52:54
+6.3 (9600)             Windows Server 2012 R2 Datacenter VSA01               18/03/2023 18:17:34
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSEXT2             18/03/2023 1:28:48
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSCDE12            12/03/2023 22:50:12
+10.0 (19045)           Windows 10 Pro                    PCIMAC21MAD086      10/03/2023 10:41:03
+10.0 (19045)           Windows 10 Pro                    PTHPX360MAD090      27/02/2023 17:23:14
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSCDE10            23/02/2023 6:35:30
+10.0 (19045)           Windows 10 Pro                    MCSW104             21/02/2023 16:12:40
+13.2                   macOS                             001-018-001         15/02/2023 17:00:08
+10.0 (19045)           Windows 10 Pro                    PTLV0L13MAD073      09/02/2023 15:30:40
+10.0 (19044)           Windows 10 Pro                    SFMC4PROMAD025      09/02/2023 12:38:08
+10.0 (19044)           Windows 10 Pro                    TABLET-Q0S23LSN     06/02/2023 9:20:23
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSSEDES15          30/01/2023 18:56:31
+10.0 (19045)           Windows 10 Pro                    PCMCPROMAD084       30/01/2023 10:31:09
+10.0 (19044)           Windows 10 Pro                    PTHP4506MAD018      27/01/2023 17:58:07
+10.0 (19044)           Windows 10 Pro                    SFMC7PROMAD080      13/12/2022 14:11:39
+10.0 (19044)           Windows 10 Enterprise             VELA                26/10/2022 12:51:56
+10.0 (19043)           Windows 10 Pro                    PTHP50G7BCN057      19/10/2022 12:14:56
+10.0 (22000)           Windows 11 Pro                    PTLV0E14MAD115      17/10/2022 8:25:40
+10.0 (22000)           Windows 11 Pro                    PTLV0L13MAD059      13/10/2022 9:02:21
+10.0 (19044)           Windows 10 Pro                    SFMC0003MAD051      05/10/2022 11:44:04
+10.11 (22010)          Mac OS X                          mpaiemac            04/10/2022 8:26:49
+10.0 (19044)           Windows 10 Pro                    SFMC003MAD006       27/09/2022 9:34:13
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMASTERCLOUDPA     07/09/2022 13:40:46
+10.0 (19044)           Windows 10 Enterprise             PTHP4540MAD032      26/08/2022 9:13:12
+10.0 (18363)           Windows 10 Enterprise             PTHPPVG6MAD030      27/07/2022 12:57:52
+6.3 (9600)             Windows Server 2012 R2 Datacenter MASTER2020EE        19/07/2022 13:13:10
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTEREE       27/06/2022 20:28:03
+6.3 (9600)             Windows Server 2012 R2 Datacenter PEGASO              21/06/2022 17:44:54
+6.3 (9600)             Windows Server 2012 R2 Datacenter DAG2013             21/06/2022 16:58:20
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WBAIE04             10/06/2022 10:21:24
+10.13.6                Mac OS X                          mbp-de-luis         02/06/2022 10:57:38
+10.0 (18363)           Windows 10 Pro                    PTDLINMAD022        01/06/2022 11:09:18
+10.0 (19044)           Windows 10 Pro                    PTLV0L15MAD074      30/05/2022 8:38:40
+6.3 (9600)             Windows Server 2012 R2 Datacenter DM                  20/05/2022 13:37:50
+6.3 (9600)             Windows Server 2012 R2 Datacenter CENTAURO            13/05/2022 1:07:47
+                       pc-linux-gnu                      UbuntuAIE           12/05/2022 16:34:24
+10.0 (19044)           Windows 10 Pro                    PTCDE03             09/05/2022 15:09:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter VSA02               16/04/2022 2:51:56
+10.0 (10586)           Windows 10 Enterprise             WMSECGEN02          31/03/2022 14:21:46
+10.0 (19042)           Windows 10 Pro                    PTHP50G3MAD061      29/03/2022 10:24:47
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSDS2              25/03/2022 1:49:25
+10.0 (15063)           Windows 10 Enterprise             WPTAIE03            21/03/2022 16:10:32
+10.15.2                Mac OS X                          prodeadistrador     18/03/2022 9:59:49
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSITS01            28/02/2022 17:23:35
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTER2        25/02/2022 13:49:45
+10.0 (18363)           Windows 10 Pro                    SFMC0003MAD049      24/02/2022 13:20:52
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSITS03            18/02/2022 19:00:27
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSITS02            18/02/2022 18:44:27
+10.0 (19042)           Windows 10 Pro                    PTCDE04             17/02/2022 10:39:17
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTERDS       15/02/2022 13:13:01
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSForma01          26/01/2022 12:17:59
+6.1 (7601)             Windows 7 Professional            WIN7APPS            25/01/2022 15:50:00
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSEXT1             23/01/2022 3:11:57
+6.1 (7600)             Windows Server 2008 R2 Standard   SODAIE              22/01/2022 23:21:39
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSEXT3             22/01/2022 22:31:29
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMASTERCC          22/01/2022 20:06:13
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76AIE09           21/01/2022 19:39:03
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   CHAR                21/01/2022 15:49:46
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSBRAV4            19/01/2022 17:56:42
+6.1 (7601)             Windows 7 Professional            XDMCSX8603          19/01/2022 15:50:02
+10.0 (15063)           Windows 10 Enterprise             PTHP4530MAD070      10/01/2022 11:09:42
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSBRAV3            09/01/2022 16:36:44
+6.3 (9600)             Windows Server 2012 R2 Datacenter BI                  05/12/2021 13:40:15
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTERADM      17/11/2021 16:46:55
+6.3 (9600)             Windows Server 2012 R2 Datacenter MCSForma02          14/11/2021 10:35:39
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD7APPMASTERDES     12/11/2021 22:03:28
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC07       09/11/2021 9:26:27
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC06       07/11/2021 8:12:05
+6.3 (9600)             Windows Server 2012 R2 Datacenter MASTERAIE715_19     05/11/2021 10:33:09
+                                                         NAS-DISENO          25/10/2021 17:11:32
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WSEV01              05/10/2021 9:09:22
+6.3 (9600)             Windows Server 2012 R2 Datacenter TESTADM             01/10/2021 2:37:09
+10.0 (19041)           Windows 10 Pro                    PTLV0L15MAD082      15/09/2021 13:04:08
+10.11.6                Mac OS X                          imac-de-presidencia 10/09/2021 11:07:39
+10.0 (19042)           Windows 10 Pro                    SFMC0003MAD044      07/09/2021 8:27:24
+6.1 (7600)             Windows Server 2008 R2 Standard   VEGAITSR            30/08/2021 6:25:46
+10.0 (19041)           Windows 10 Pro                    PTLVL015MAD082      04/08/2021 14:08:37
+                                                         BESOCIOS            04/08/2021 6:17:18
+10.0 (19042)           Windows 10 Pro                    PTHP4530MAD031      27/07/2021 8:59:18
+10.10.5                Mac OS X                          imac                23/06/2021 13:42:03
+10.11 (22010)          Mac OS X                          mmpre01             25/05/2021 11:10:33
+6.3 (9600)             Windows Server 2012 R2 Datacenter MASTER2021FRM       04/05/2021 10:01:58
+6.3 (9600)             Windows Server 2012 R2 Datacenter MASTER2020IR        27/04/2021 17:13:51
+10.11 (21)             Mac OS X                          aie25-pro           22/04/2021 13:31:09
+10.0 (19041)           Windows 10 Pro for Workstations   ORION               09/03/2021 11:02:51
+6.3 (9600)             Windows Server 2012 R2 Datacenter ADMINISTRACION      09/02/2021 15:36:51
+10.0 (19042)           Windows 10 Pro                    SFMC0003MAD048      08/02/2021 11:53:54
+10.0 (19042)           Windows 10 Pro                    PTHP0250MAD055      22/01/2021 9:35:24
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC05       21/01/2021 8:43:41
+10.0 (19041)           Windows 10 Pro                    PTLV0L15MAD0        20/01/2021 13:07:40
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WBAIE01             15/12/2020 10:05:22
+6.3 (9600)             Windows Server 2012 R2 Datacenter AQUILA              30/11/2020 21:08:13
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC04       31/10/2020 1:13:56
+10.0 (18363)           Windows 10 Pro for Workstations   PTHPPVG6MAD058      28/10/2020 8:50:24
+6.3 (9600)             Windows Server 2012 R2 Datacenter ADMTEST             22/10/2020 16:21:46
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMASTERBRAV20      16/10/2020 13:26:07
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTERFNZ      30/09/2020 13:52:39
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WBAIE02             27/09/2020 12:44:51
+10.0 (18363)           Windows 10 Pro                    SFMC0003MAD016      23/09/2020 12:46:53
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76EEMASTER        18/09/2020 17:50:42
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MCSADM         11/09/2020 18:57:41
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDTEST2020          04/09/2020 13:42:59
+10.11 (50)             Mac OS X                          mmpre02             03/09/2020 16:58:46
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTER3        20/08/2020 18:06:20
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTER_DS      17/08/2020 9:22:33
+5.1 (2600)             Windows XP Professional           XDMCSREGDOC03       17/08/2020 0:01:43
+10.0 (18363)           Windows 10 Pro                    PTHP0250MAD010      10/08/2020 12:52:03
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76DDC02           27/07/2020 11:09:41
+10.0 (17763)           Windows 10 Pro                    SFMC0003MAD013      15/07/2020 12:10:57
+10.0 (18362)           Windows 10 Pro                    DESKTOP-8GKUEF7     01/07/2020 8:53:48
+10.0 (18363)           Windows 10 Pro                    SFMC0003MAD050      29/06/2020 14:13:53
+10.0 (17134)           Windows 10 Pro                    SFAIE17             26/06/2020 8:17:11
+10.0 (18363)           Windows 10 Pro                    SFAIECP             19/06/2020 11:11:01
+6.3 (9600)             Windows Server 2012 R2 Datacenter raul2020AAA         31/05/2020 13:41:02
+6.1 (7600)             Windows Server 2008 R2 Standard   AIECTXES            29/04/2020 5:32:43
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WBAIE05             16/03/2020 11:02:10
+10.0 (15063)           Windows 10 Enterprise             WPTAIE04            12/03/2020 11:17:00
+10.0 (18363)           Windows 10 Pro                    WMADM02             01/03/2020 21:35:34
+10.0 (14393)           Windows Server 2016 Datacenter    HESTIA              08/02/2020 20:53:35
+5.2 (3790)             Windows Server 2003               PORTALAIE           28/01/2020 18:05:57
+10.0 (14393)           Windows 10 Enterprise N 2016 LTSB WPAIE14             09/01/2020 8:17:11
+10.0 (18363)           Windows 10 Pro                    SFMC0003MAD015      02/12/2019 10:08:25
+10.0 (15063)           Windows 10 Pro                    WPTAIE01            30/11/2019 7:33:45
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WMSECGEN01          18/11/2019 8:34:44
+6.1 (7601)             Windows 7 Professional            WMATS01             28/10/2019 16:42:25
+10.0 (17134)           Windows 10 Pro                    SFAIE14             28/10/2019 16:35:46
+6.3 (9600)             Windows Server 2012 R2 Datacenter AFRODITA            19/10/2019 19:19:21
+10.0 (14393)           Windows 10 Pro                    WMCSOCIO2           17/10/2019 10:53:53
+10.0 (17134)           Windows 10 Pro                    SFAIENURIA          02/10/2019 11:50:06
+10.0 (15063)           Windows 10 Enterprise             WPTAIE05            03/09/2019 14:23:13
+10.0 (17763)           Windows 10 Pro                    WPTAIE20            19/06/2019 9:18:24
+6.2 (9200)             Windows Server 2012 Datacenter    PANDORA             10/06/2019 10:41:08
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDSGGAJULIO         30/05/2019 16:37:24
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76ITSRMASTER      29/05/2019 10:33:48
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTERITSR     28/05/2019 8:36:47
+6.3 (9600)             Windows Server 2012 R2 Datacenter TFS                 26/05/2019 2:06:32
+10.0 (14393)           Windows 10 Pro                    SFAIE06             20/05/2019 8:31:57
+10.0 (17763)           Windows 10 Pro                    SFAIE11             13/05/2019 11:06:53
+10.0 (10586)           Windows 10 Pro                    SFAIE02             06/05/2019 8:42:12
+10.0 (10586)           Windows 10 Pro                    DESKTOP-QCF09E5     29/03/2019 11:23:40
+6.3 (9600)             Windows Server 2012 R2 Datacenter OFICINAVIRTUAL      29/03/2019 1:38:19
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIEMASTER         20/03/2019 16:16:54
+10.0 (17134)           Windows 10 Pro                    SFAIE10             04/03/2019 14:57:45
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIEMASTERTEST     21/02/2019 11:35:47
+10.0 (17134)           Windows 10 Pro                    DESKTOP-0S2CTEK     19/02/2019 14:11:35
+10.0 (17134)           Windows 10 Pro                    SFAIE07             18/02/2019 10:11:20
+10.0 (17134)           Windows 10 Pro                    SFAIE19             18/02/2019 9:58:10
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD76MCSBRV02        13/02/2019 11:06:01
+10.10                  Mac OS X                          mbmpre01            23/01/2019 16:25:18
+10.0 (10586)           Windows 10 Pro                    SFAIECARMEN18       04/01/2019 11:27:51
+6.3 (9600)             Windows Server 2012 R2 Datacenter TABLEAU             06/11/2018 10:05:42
+10.0 (17134)           Windows 10 Enterprise             WPTAIE13            31/10/2018 8:40:05
+10.13.6                Mac OS X                          diego               26/10/2018 11:01:43
+6.1 (7601)             Windows 7 Professional            WMANAV              19/09/2018 9:42:32
+10.0 (17134)           Windows 10 Pro                    SFAIE04             03/09/2018 8:39:57
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD7APP03            01/09/2018 3:48:16
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD76MCSBRV01        28/08/2018 2:53:59
+6.1 (7601)             Windows 7 Professional            WMDGE02             10/07/2018 9:59:56
+6.1 (7601)             Windows 7 Professional            WMDES01             21/06/2018 9:55:01
+10.0 (14393)           Windows 10 Pro                    SFAIE12             18/06/2018 9:51:56
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WMSIS37             04/06/2018 11:08:39
+10.0 (14393)           Windows 10 Pro                    SFAIE05             04/06/2018 9:59:42
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD715MASTERBRAV     18/05/2018 17:28:41
+6.1 (7601)             Windows 7 Professional            WMFAC05             07/05/2018 9:21:49
+6.1 (7601)             Windows 7 Professional            WMREP12             03/05/2018 11:12:22
+6.3 (9600)             Windows Server 2012 R2 Datacenter COMSERVER           08/03/2018 20:58:05
+6.1 (7601)             Windows 7 Professional            WMEVENTOS1          02/02/2018 11:42:34
+10.0 (16299)           Windows 10 Pro                    WMEVENTOS2          16/01/2018 8:31:45
+6.3 (9600)             Windows Server 2012 R2 Datacenter XD76GDAMASTER       18/12/2017 9:25:55
+6.1 (7601)             Windows Server 2008 R2 Datacenter XD7DES02            19/10/2017 11:12:02
+10.0 (14393)           Windows 10 Pro                    SFAIE03             17/10/2017 10:42:56
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMCSMASTER         16/10/2017 2:30:31
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WMADM03             15/09/2017 9:31:14
+6.3 (9600)             Windows Server 2012 R2 Datacenter VSANWITNESS         13/09/2017 17:01:40
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WMSGE01             09/09/2017 10:57:27
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDMCS32MASTER       28/08/2017 6:12:59
+5.1 (2600)             Windows XP Professional           XDXPMASTER          09/06/2017 16:02:01
+10.0 (10586)           Windows 10 Enterprise             WBCN03              02/06/2017 11:43:16
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WBAIE03             22/05/2017 9:40:11
+10.0 (10240)           Windows 10 Enterprise 2015 LTSB   WMSIS08             10/05/2017 9:52:56
+6.1 (7601)             Windows 7 Professional            WBSIS01             30/03/2017 13:11:52
+6.3 (9600)             Windows Server 2012 R2 Datacenter XDAIEMASTER17       06/03/2017 10:43:16
+6.1 (7600)             Windows Server 2008 R2 Standard   VEGAGDA             10/05/2016 6:53:05
+6.1 (7600)             Windows Server 2008 R2 Standard   SGP                 11/12/2015 16:56:25
+6.1 (7600)             Windows Server 2008 R2 Standard   SODINPRO            09/12/2015 15:26:13
+6.1 (7601)             Windows 7 Professional            XD7W732MASTER       13/02/2015 13:22:16
+                                                         AZUREADSSOACC       
+

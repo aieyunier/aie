@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-service
+  namespace: default
+spec:
+  selector:
+    name: mysql   # Reemplaza 'app' con la etiqueta que usas en tus pods MySQL
+  ports:
+    - protocol: TCP
+      port: 3306    # Puerto del servicio
+      targetPort: 3306   # Puerto al que se dirigirán las solicitudes en los pods
+  type: ClusterIP   # Este tipo de servicio crea un IP interno solo accesible desde dentro del clúster

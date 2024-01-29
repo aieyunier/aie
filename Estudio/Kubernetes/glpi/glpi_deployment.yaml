@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: glpi
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: glpi
+  template:
+    metadata:
+      labels:
+        app: glpi
+    spec:
+      containers:
+      - name: glpi
+        image: diouxx/glpi
+        env:
+        - name: variable_de_entorno_1
+          value: value1
+        - name: variable_de_entorno_2
+          value: value2
+        envFrom:
+        - configMapRef:
+            name: glpiconfigmaps
+        resources:
+          limits:
+            cpu: 500m # Límite de CPU en milicores
+            memory: "512Mi"
+          requests:
+            memory: "256Mi" # Memoria RAM garantizada
+            cpu: "100m"     # CPU garantizada en milicores
