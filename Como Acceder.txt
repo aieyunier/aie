@@ -2,3 +2,20 @@ https://github.com/aieyunier/aie
 usuario: aieyunier
 passw: *mast....
 
+*******************************
+git config --global user.name "Yunier Valdes"
+git config --global user.email "aie.yuniervaldes@gmail.com"
+
+git init
+git branch -M main
+git remote add origin https://github.com/aieyunier/aie.git
+git add .
+git commit -m "Primer commit en la rama main"
+git pull origin main --allow-unrelated-histories
+
+git pull origin main
+...
+
+git push -u origin main
+
+
